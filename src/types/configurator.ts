@@ -24,7 +24,7 @@ export type SocketType =
 
 export type MemoryType = "DDR2" | "DDR3" | "DDR4" | "DDR5";
 
-export type FormFactor = "Mini ITX" | "Micro ATX" | "ATX" | "E-ATX";
+export type FormFactor = "Mini ITX" | "Micro ATX" | "ATX" | "E-ATX" | "Mini DTX";
 
 export interface CPUSpecs {
   type: "cpu";
@@ -123,7 +123,7 @@ export interface PeripheralSpecs {
   type: "peripheral";
   connection?: "Wired" | "Wireless";
   rgb?: boolean;
-  [key: string]: any;
+  [key: string]: unknown;
 }
 
 export type ComponentSpecs = 

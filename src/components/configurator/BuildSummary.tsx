@@ -1,7 +1,7 @@
 "use client";
 
 import { useBuilderStore } from "@/store/useBuilderStore";
-import { AlertCircle, CheckCircle2, Zap, Save, ShoppingCart, CreditCard, RotateCcw } from "lucide-react";
+import { AlertCircle, CheckCircle2, Zap, Save, ShoppingCart, RotateCcw } from "lucide-react";
 import { cn } from "@/lib/utils";
 
 export default function BuildSummary() {

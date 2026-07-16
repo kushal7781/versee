@@ -6,7 +6,6 @@ import {
   GPUSpecs,
   MotherboardSpecs,
   MemorySpecs,
-  StorageSpecs,
   PSUSpecs,
   CaseSpecs,
   CoolerSpecs

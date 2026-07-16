@@ -2,10 +2,10 @@
 
 import { useBuilderStore } from "@/store/useBuilderStore";
 import { dummyComponents } from "@/data/components";
-import { PCComponent } from "@/types/configurator";
 import { motion, AnimatePresence } from "framer-motion";
-import { ShoppingCart, CheckCircle, Info } from "lucide-react";
+import { CheckCircle } from "lucide-react";
 import { cn } from "@/lib/utils";
+import Image from "next/image";
 import LivePreview from "./LivePreview";
 
 export default function ProductList() {
@@ -48,9 +48,11 @@ export default function ProductList() {
               >
                 {/* Image Section */}
                 <div className="aspect-square w-full relative bg-white/5 p-6 flex items-center justify-center overflow-hidden">
-                  <img 
+                  <Image 
                     src={product.image} 
                     alt={product.name}
+                    width={400}
+                    height={400}
                     className="w-full h-full object-contain filter group-hover:scale-105 transition-transform duration-500" 
                   />
                   {isSelected && (

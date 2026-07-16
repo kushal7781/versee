@@ -2,11 +2,11 @@
 
 import { useBuilderStore } from "@/store/useBuilderStore";
 import { ComponentCategory } from "@/types/configurator";
-import { Cpu, Wind, HardDrive, Monitor, Fan, Battery, Box, Headphones, Keyboard, Mouse, Type } from "lucide-react";
+import { Cpu, Wind, HardDrive, Monitor, Fan, Battery, Box, LucideIcon } from "lucide-react";
 import { cn } from "@/lib/utils";
 
 // Simplified icons for now
-const categoryConfig: { id: ComponentCategory; name: string; icon: any }[] = [
+const categoryConfig: { id: ComponentCategory; name: string; icon: LucideIcon }[] = [
   { id: "cpu", name: "Processor (CPU)", icon: Cpu },
   { id: "cooler", name: "CPU Cooler", icon: Wind },
   { id: "motherboard", name: "Motherboard", icon: Box },

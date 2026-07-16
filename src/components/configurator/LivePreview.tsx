@@ -2,7 +2,7 @@
 
 import { useBuilderStore } from "@/store/useBuilderStore";
 import { motion } from "framer-motion";
-import { Cpu, HardDrive, Monitor, Fan, Box } from "lucide-react";
+import { Cpu, Fan, Box } from "lucide-react";
 
 export default function LivePreview() {
   const { selectedComponents } = useBuilderStore();

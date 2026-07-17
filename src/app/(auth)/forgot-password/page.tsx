@@ -65,7 +65,7 @@ export default function ForgotPasswordPage() {
           </div>
           <h3 className="mb-2 text-xl font-bold text-white">Check your email</h3>
           <p className="text-sm text-gray-300">
-            If an account exists with <span className="font-semibold text-white">{email}</span>, we've sent instructions to reset your password.
+            If an account exists with <span className="font-semibold text-white">{email}</span>, we&apos;ve sent instructions to reset your password.
           </p>
           <Link 
             href="/login" 

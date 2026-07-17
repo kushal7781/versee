@@ -34,10 +34,11 @@ export default function Preloader() {
             className="absolute inset-0 w-full h-full opacity-60"
           >
             {/* Using a high-quality tenor gif for the BMW drift */}
-            <img
+            <Image
               src="https://media.tenor.com/FwIeF3p9b-wAAAAd/bmw-m4.gif"
               alt="BMW Drift"
-              className="w-full h-full object-cover grayscale brightness-75 mix-blend-screen"
+              fill
+              className="object-cover grayscale brightness-75 mix-blend-screen"
             />
           </motion.div>
 

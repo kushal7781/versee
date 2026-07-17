@@ -1,5 +1,7 @@
 import NextAuth from "next-auth";
 import Credentials from "next-auth/providers/credentials";
+import Google from "next-auth/providers/google";
+import Apple from "next-auth/providers/apple";
 import bcrypt from "bcryptjs";
 import { authConfig } from "@/auth.config";
 import { connectDB } from "@/lib/db/connect";
@@ -8,6 +10,14 @@ import { User } from "@/models/User";
 export const { handlers, auth, signIn, signOut } = NextAuth({
   ...authConfig,
   providers: [
+    Google({
+      clientId: process.env.GOOGLE_CLIENT_ID,
+      clientSecret: process.env.GOOGLE_CLIENT_SECRET,
+    }),
+    Apple({
+      clientId: process.env.APPLE_ID,
+      clientSecret: process.env.APPLE_SECRET,
+    }),
     Credentials({
       name: "credentials",
       credentials: {

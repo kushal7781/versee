@@ -3,6 +3,8 @@ import { Space_Grotesk, Inter, JetBrains_Mono } from "next/font/google";
 import "./globals.css";
 import AuthSessionProvider from "@/components/providers/SessionProvider";
 import CustomCursor from "@/components/ui/CustomCursor";
+import Preloader from "@/components/ui/Preloader";
+
 const display = Space_Grotesk({
   subsets: ["latin"],
   variable: "--font-display",
@@ -35,6 +37,7 @@ export default function RootLayout({
     <html lang="en" className={`dark ${display.variable} ${body.variable} ${mono.variable}`}>
       <body className="min-h-screen bg-background text-foreground antialiased cursor-default">
         <CustomCursor />
+        <Preloader />
         <AuthSessionProvider>{children}</AuthSessionProvider>
       </body>
     </html>

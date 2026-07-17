@@ -1,5 +1,6 @@
 "use client";
 
+import { useState, useEffect, useMemo } from "react";
 import { useBuilderStore } from "@/store/useBuilderStore";
 import { dummyComponents } from "@/data/components";
 import { motion, AnimatePresence } from "framer-motion";
@@ -10,13 +11,23 @@ import LivePreview from "./LivePreview";
 
 export default function ProductList() {
   const { activeCategory, selectComponent, selectedComponents } = useBuilderStore();
+  const [visibleCount, setVisibleCount] = useState(20);
+
+  useEffect(() => {
+    setVisibleCount(20);
+  }, [activeCategory]);
+
+  const products = useMemo(() => {
+    if (!activeCategory) return [];
+    return dummyComponents.filter((c) => c.category === activeCategory);
+  }, [activeCategory]);
 
   if (!activeCategory) {
     return <LivePreview />;
   }
 
-  const products = dummyComponents.filter((c) => c.category === activeCategory);
   const selectedComponentId = selectedComponents[activeCategory]?.id;
+  const visibleProducts = products.slice(0, visibleCount);
 
   return (
     <div className="h-full overflow-y-auto p-4 md:p-6 lg:p-8">
@@ -30,7 +41,7 @@ export default function ProductList() {
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 xl:grid-cols-3 gap-4 md:gap-6">
         <AnimatePresence mode="popLayout">
-          {products.map((product) => {
+          {visibleProducts.map((product) => {
             const isSelected = selectedComponentId === product.id;
 
             return (
@@ -107,6 +118,17 @@ export default function ProductList() {
           })}
         </AnimatePresence>
       </div>
+
+      {visibleCount < products.length && (
+        <div className="mt-8 flex justify-center pb-8">
+          <button
+            onClick={() => setVisibleCount((prev) => prev + 20)}
+            className="px-6 py-3 bg-white/10 hover:bg-white/20 text-white rounded-xl font-bold transition-all active:scale-95"
+          >
+            Load More
+          </button>
+        </div>
+      )}
     </div>
   );
 }

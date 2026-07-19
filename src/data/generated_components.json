@@ -1,0 +1,3462 @@
+[
+  {
+    "id": "mobo-gigabyte-b650",
+    "category": "motherboard",
+    "name": "Gigabyte B650 Gaming X AX",
+    "brand": "Gigabyte",
+    "price": 20990,
+    "image": "/images/components/mobo.png",
+    "rating": 4.6,
+    "availability": "In Stock",
+    "specs": {
+      "type": "motherboard",
+      "socket": "AM5",
+      "formFactor": "ATX",
+      "chipset": "B650",
+      "memoryType": "DDR5",
+      "memorySlots": 4,
+      "maxMemory": "192 GB",
+      "pcieSlots": [
+        "PCIe 4.0 x16",
+        "PCIe 3.0 x1"
+      ],
+      "m2Slots": 3,
+      "sataPorts": 4,
+      "wifi": true,
+      "tdp": 20
+    }
+  },
+  {
+    "id": "mobo-asus-x670e",
+    "category": "motherboard",
+    "name": "ASUS ROG Strix X670E-E Gaming WiFi",
+    "brand": "ASUS",
+    "price": 51990,
+    "image": "/images/components/mobo.png",
+    "rating": 4.8,
+    "availability": "Low Stock",
+    "specs": {
+      "type": "motherboard",
+      "socket": "AM5",
+      "formFactor": "ATX",
+      "chipset": "X670E",
+      "memoryType": "DDR5",
+      "memorySlots": 4,
+      "maxMemory": "192 GB",
+      "pcieSlots": [
+        "PCIe 5.0 x16"
+      ],
+      "m2Slots": 4,
+      "sataPorts": 4,
+      "wifi": true,
+      "tdp": 30
+    }
+  },
+  {
+    "id": "mobo-msi-z790",
+    "category": "motherboard",
+    "name": "MSI MPG Z790 Carbon WiFi",
+    "brand": "MSI",
+    "price": 40990,
+    "image": "/images/components/mobo.png",
+    "rating": 4.7,
+    "availability": "In Stock",
+    "specs": {
+      "type": "motherboard",
+      "socket": "LGA1700",
+      "formFactor": "ATX",
+      "chipset": "Z790",
+      "memoryType": "DDR5",
+      "memorySlots": 4,
+      "maxMemory": "192 GB",
+      "pcieSlots": [
+        "PCIe 5.0 x16"
+      ],
+      "m2Slots": 5,
+      "sataPorts": 6,
+      "wifi": true,
+      "tdp": 25
+    }
+  },
+  {
+    "id": "mobo-msi-b760m",
+    "category": "motherboard",
+    "name": "MSI MAG B760M Mortar WiFi",
+    "brand": "MSI",
+    "price": 16990,
+    "image": "/images/components/mobo.png",
+    "rating": 4.5,
+    "availability": "In Stock",
+    "specs": {
+      "type": "motherboard",
+      "socket": "LGA1700",
+      "formFactor": "Micro ATX",
+      "chipset": "B760",
+      "memoryType": "DDR5",
+      "memorySlots": 4,
+      "maxMemory": "192 GB",
+      "pcieSlots": [
+        "PCIe 5.0 x16"
+      ],
+      "m2Slots": 2,
+      "sataPorts": 4,
+      "wifi": true,
+      "tdp": 15
+    }
+  },
+  {
+    "id": "mobo-asrock-b450",
+    "category": "motherboard",
+    "name": "ASRock B450M PRO4",
+    "brand": "ASRock",
+    "price": 8990,
+    "image": "/images/components/mobo.png",
+    "rating": 4.4,
+    "availability": "In Stock",
+    "specs": {
+      "type": "motherboard",
+      "socket": "AM4",
+      "formFactor": "Micro ATX",
+      "chipset": "B450",
+      "memoryType": "DDR4",
+      "memorySlots": 4,
+      "maxMemory": "64 GB",
+      "pcieSlots": [
+        "PCIe 3.0 x16"
+      ],
+      "m2Slots": 2,
+      "sataPorts": 4,
+      "wifi": false,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "case-nzxt-h9",
+    "category": "case",
+    "name": "NZXT H9 Flow ATX Mid Tower",
+    "brand": "NZXT",
+    "price": 17990,
+    "image": "/images/components/case.png",
+    "rating": 4.9,
+    "availability": "In Stock",
+    "specs": {
+      "type": "case",
+      "formFactor": "ATX",
+      "supportedMotherboards": [
+        "Mini ITX",
+        "Micro ATX",
+        "ATX"
+      ],
+      "maxLengthGPU": 435,
+      "maxHeightCooler": 165,
+      "maxLengthPSU": 200,
+      "includedFans": 4
+    }
+  },
+  {
+    "id": "case-lianli-o11",
+    "category": "case",
+    "name": "Lian Li O11 Dynamic EVO",
+    "brand": "Lian Li",
+    "price": 15990,
+    "image": "/images/components/case.png",
+    "rating": 4.8,
+    "availability": "In Stock",
+    "specs": {
+      "type": "case",
+      "formFactor": "ATX",
+      "supportedMotherboards": [
+        "Mini ITX",
+        "Micro ATX",
+        "ATX",
+        "E-ATX"
+      ],
+      "maxLengthGPU": 422,
+      "maxHeightCooler": 167,
+      "maxLengthPSU": 220,
+      "includedFans": 0
+    }
+  },
+  {
+    "id": "case-fractal-north",
+    "category": "case",
+    "name": "Fractal Design North",
+    "brand": "Fractal Design",
+    "price": 14990,
+    "image": "/images/components/case.png",
+    "rating": 4.8,
+    "availability": "Low Stock",
+    "specs": {
+      "type": "case",
+      "formFactor": "ATX",
+      "supportedMotherboards": [
+        "Mini ITX",
+        "Micro ATX",
+        "ATX"
+      ],
+      "maxLengthGPU": 355,
+      "maxHeightCooler": 170,
+      "maxLengthPSU": 255,
+      "includedFans": 2
+    }
+  },
+  {
+    "id": "case-corsair-4000d",
+    "category": "case",
+    "name": "Corsair 4000D Airflow",
+    "brand": "Corsair",
+    "price": 10990,
+    "image": "/images/components/case.png",
+    "rating": 4.7,
+    "availability": "In Stock",
+    "specs": {
+      "type": "case",
+      "formFactor": "ATX",
+      "supportedMotherboards": [
+        "Mini ITX",
+        "Micro ATX",
+        "ATX"
+      ],
+      "maxLengthGPU": 360,
+      "maxHeightCooler": 170,
+      "maxLengthPSU": 220,
+      "includedFans": 2
+    }
+  },
+  {
+    "id": "cooler-thermalright-peerless",
+    "category": "cooler",
+    "name": "Thermalright Peerless Assassin 120 SE",
+    "brand": "Thermalright",
+    "price": 3699,
+    "image": "/images/components/cooler.png",
+    "rating": 4.9,
+    "availability": "In Stock",
+    "specs": {
+      "type": "cooler",
+      "coolerType": "Air",
+      "supportedSockets": [
+        "AM4",
+        "AM5",
+        "LGA1700"
+      ],
+      "height": 155,
+      "rgb": false,
+      "tdp": 5
+    }
+  },
+  {
+    "id": "cooler-corsair-h150i",
+    "category": "cooler",
+    "name": "Corsair iCUE H150i Elite LCD XT",
+    "brand": "Corsair",
+    "price": 30990,
+    "image": "/images/components/cooler.png",
+    "rating": 4.6,
+    "availability": "In Stock",
+    "specs": {
+      "type": "cooler",
+      "coolerType": "AIO 360",
+      "supportedSockets": [
+        "AM4",
+        "AM5",
+        "LGA1700"
+      ],
+      "radiatorLength": 397,
+      "rgb": true,
+      "tdp": 15
+    }
+  },
+  {
+    "id": "cooler-arctic-lf3",
+    "category": "cooler",
+    "name": "Arctic Liquid Freezer III 360",
+    "brand": "Arctic",
+    "price": 13990,
+    "image": "/images/components/cooler.png",
+    "rating": 4.8,
+    "availability": "In Stock",
+    "specs": {
+      "type": "cooler",
+      "coolerType": "AIO 360",
+      "supportedSockets": [
+        "AM4",
+        "AM5",
+        "LGA1700"
+      ],
+      "radiatorLength": 398,
+      "rgb": false,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "cooler-noctua-d15",
+    "category": "cooler",
+    "name": "Noctua NH-D15 chromax.black",
+    "brand": "Noctua",
+    "price": 13990,
+    "image": "/images/components/cooler.png",
+    "rating": 4.9,
+    "availability": "In Stock",
+    "specs": {
+      "type": "cooler",
+      "coolerType": "Air",
+      "supportedSockets": [
+        "AM4",
+        "AM5",
+        "LGA1700"
+      ],
+      "height": 165,
+      "rgb": false,
+      "tdp": 5
+    }
+  },
+  {
+    "id": "psu-corsair-rm850e",
+    "category": "psu",
+    "name": "Corsair RM850e (2023) 850W ATX 3.0",
+    "brand": "Corsair",
+    "price": 13990,
+    "image": "/images/components/psu.png",
+    "rating": 4.7,
+    "availability": "In Stock",
+    "specs": {
+      "type": "psu",
+      "wattage": 850,
+      "efficiency": "80+ Gold",
+      "modular": "Full",
+      "formFactor": "ATX"
+    }
+  },
+  {
+    "id": "psu-seasonic-gx1000",
+    "category": "psu",
+    "name": "Seasonic Focus GX-1000 ATX 3.0",
+    "brand": "Seasonic",
+    "price": 18990,
+    "image": "/images/components/psu.png",
+    "rating": 4.9,
+    "availability": "In Stock",
+    "specs": {
+      "type": "psu",
+      "wattage": 1000,
+      "efficiency": "80+ Gold",
+      "modular": "Full",
+      "formFactor": "ATX"
+    }
+  },
+  {
+    "id": "psu-msi-a850g",
+    "category": "psu",
+    "name": "MSI MPG A850G PCIE5",
+    "brand": "MSI",
+    "price": 14990,
+    "image": "/images/components/psu.png",
+    "rating": 4.8,
+    "availability": "In Stock",
+    "specs": {
+      "type": "psu",
+      "wattage": 850,
+      "efficiency": "80+ Gold",
+      "modular": "Full",
+      "formFactor": "ATX"
+    }
+  },
+  {
+    "id": "psu-evga-750gt",
+    "category": "psu",
+    "name": "EVGA SuperNOVA 750 GT",
+    "brand": "EVGA",
+    "price": 12990,
+    "image": "/images/components/psu.png",
+    "rating": 4.7,
+    "availability": "Low Stock",
+    "specs": {
+      "type": "psu",
+      "wattage": 750,
+      "efficiency": "80+ Gold",
+      "modular": "Full",
+      "formFactor": "ATX"
+    }
+  },
+  {
+    "id": "ram-corsair-vengeance-rgb-8-gb--1x8gb--ddr4-3200",
+    "category": "memory",
+    "name": "Corsair Vengeance RGB 8 GB (1x8GB) DDR4-3200",
+    "brand": "Corsair",
+    "price": 4099,
+    "image": "/images/components/ram.png",
+    "rating": 4.566585423317858,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR4",
+      "capacity": "8 GB (1 x 8 GB)",
+      "speed": "3200 MHz",
+      "latency": "CL16",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 5
+    }
+  },
+  {
+    "id": "ram-corsair-vengeance-8-gb--1x8gb--ddr4-3200",
+    "category": "memory",
+    "name": "Corsair Vengeance 8 GB (1x8GB) DDR4-3200",
+    "brand": "Corsair",
+    "price": 2899,
+    "image": "/images/components/ram.png",
+    "rating": 4.87907025849314,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR4",
+      "capacity": "8 GB (1 x 8 GB)",
+      "speed": "3200 MHz",
+      "latency": "CL16",
+      "voltage": "1.35V",
+      "rgb": false,
+      "tdp": 5
+    }
+  },
+  {
+    "id": "ram-g-skill-ripjaws-v-8-gb--1x8gb--ddr4-3200",
+    "category": "memory",
+    "name": "G.Skill Ripjaws V 8 GB (1x8GB) DDR4-3200",
+    "brand": "G.Skill",
+    "price": 2599,
+    "image": "/images/components/ram.png",
+    "rating": 4.5308479889575315,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR4",
+      "capacity": "8 GB (1 x 8 GB)",
+      "speed": "3200 MHz",
+      "latency": "CL16",
+      "voltage": "1.35V",
+      "rgb": false,
+      "tdp": 5
+    }
+  },
+  {
+    "id": "ram-kingston-fury-beast-rgb-8-gb--1x8gb--ddr4-3200",
+    "category": "memory",
+    "name": "Kingston FURY Beast RGB 8 GB (1x8GB) DDR4-3200",
+    "brand": "Kingston",
+    "price": 3599,
+    "image": "/images/components/ram.png",
+    "rating": 4.852793925231841,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR4",
+      "capacity": "8 GB (1 x 8 GB)",
+      "speed": "3200 MHz",
+      "latency": "CL16",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 5
+    }
+  },
+  {
+    "id": "ram-kingston-fury-beast-8-gb--1x8gb--ddr4-3200",
+    "category": "memory",
+    "name": "Kingston FURY Beast 8 GB (1x8GB) DDR4-3200",
+    "brand": "Kingston",
+    "price": 2599,
+    "image": "/images/components/ram.png",
+    "rating": 4.7433278663397545,
+    "availability": "Low Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR4",
+      "capacity": "8 GB (1 x 8 GB)",
+      "speed": "3200 MHz",
+      "latency": "CL16",
+      "voltage": "1.35V",
+      "rgb": false,
+      "tdp": 5
+    }
+  },
+  {
+    "id": "ram-crucial-pro-rgb-8-gb--1x8gb--ddr4-3200",
+    "category": "memory",
+    "name": "Crucial Pro RGB 8 GB (1x8GB) DDR4-3200",
+    "brand": "Crucial",
+    "price": 3599,
+    "image": "/images/components/ram.png",
+    "rating": 4.987066359103968,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR4",
+      "capacity": "8 GB (1 x 8 GB)",
+      "speed": "3200 MHz",
+      "latency": "CL16",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 5
+    }
+  },
+  {
+    "id": "ram-crucial-pro-8-gb--1x8gb--ddr4-3200",
+    "category": "memory",
+    "name": "Crucial Pro 8 GB (1x8GB) DDR4-3200",
+    "brand": "Crucial",
+    "price": 2599,
+    "image": "/images/components/ram.png",
+    "rating": 4.9844494177169025,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR4",
+      "capacity": "8 GB (1 x 8 GB)",
+      "speed": "3200 MHz",
+      "latency": "CL16",
+      "voltage": "1.35V",
+      "rgb": false,
+      "tdp": 5
+    }
+  },
+  {
+    "id": "ram-teamgroup-t-force-delta-rgb-8-gb--1x8gb--ddr4-3200",
+    "category": "memory",
+    "name": "TeamGroup T-Force Delta RGB 8 GB (1x8GB) DDR4-3200",
+    "brand": "TeamGroup",
+    "price": 3599,
+    "image": "/images/components/ram.png",
+    "rating": 4.656279470156556,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR4",
+      "capacity": "8 GB (1 x 8 GB)",
+      "speed": "3200 MHz",
+      "latency": "CL16",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 5
+    }
+  },
+  {
+    "id": "ram-corsair-vengeance-rgb-8-gb--1x8gb--ddr4-3600",
+    "category": "memory",
+    "name": "Corsair Vengeance RGB 8 GB (1x8GB) DDR4-3600",
+    "brand": "Corsair",
+    "price": 4499,
+    "image": "/images/components/ram.png",
+    "rating": 4.9169403740797355,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR4",
+      "capacity": "8 GB (1 x 8 GB)",
+      "speed": "3600 MHz",
+      "latency": "CL18",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 5
+    }
+  },
+  {
+    "id": "ram-corsair-vengeance-8-gb--1x8gb--ddr4-3600",
+    "category": "memory",
+    "name": "Corsair Vengeance 8 GB (1x8GB) DDR4-3600",
+    "brand": "Corsair",
+    "price": 3499,
+    "image": "/images/components/ram.png",
+    "rating": 4.929622410346598,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR4",
+      "capacity": "8 GB (1 x 8 GB)",
+      "speed": "3600 MHz",
+      "latency": "CL18",
+      "voltage": "1.35V",
+      "rgb": false,
+      "tdp": 5
+    }
+  },
+  {
+    "id": "ram-g-skill-ripjaws-v-8-gb--1x8gb--ddr4-3600",
+    "category": "memory",
+    "name": "G.Skill Ripjaws V 8 GB (1x8GB) DDR4-3600",
+    "brand": "G.Skill",
+    "price": 3099,
+    "image": "/images/components/ram.png",
+    "rating": 4.785736318033993,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR4",
+      "capacity": "8 GB (1 x 8 GB)",
+      "speed": "3600 MHz",
+      "latency": "CL18",
+      "voltage": "1.35V",
+      "rgb": false,
+      "tdp": 5
+    }
+  },
+  {
+    "id": "ram-kingston-fury-beast-rgb-8-gb--1x8gb--ddr4-3600",
+    "category": "memory",
+    "name": "Kingston FURY Beast RGB 8 GB (1x8GB) DDR4-3600",
+    "brand": "Kingston",
+    "price": 4099,
+    "image": "/images/components/ram.png",
+    "rating": 4.539607073064358,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR4",
+      "capacity": "8 GB (1 x 8 GB)",
+      "speed": "3600 MHz",
+      "latency": "CL18",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 5
+    }
+  },
+  {
+    "id": "ram-kingston-fury-beast-8-gb--1x8gb--ddr4-3600",
+    "category": "memory",
+    "name": "Kingston FURY Beast 8 GB (1x8GB) DDR4-3600",
+    "brand": "Kingston",
+    "price": 3099,
+    "image": "/images/components/ram.png",
+    "rating": 4.60671597232737,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR4",
+      "capacity": "8 GB (1 x 8 GB)",
+      "speed": "3600 MHz",
+      "latency": "CL18",
+      "voltage": "1.35V",
+      "rgb": false,
+      "tdp": 5
+    }
+  },
+  {
+    "id": "ram-crucial-pro-rgb-8-gb--1x8gb--ddr4-3600",
+    "category": "memory",
+    "name": "Crucial Pro RGB 8 GB (1x8GB) DDR4-3600",
+    "brand": "Crucial",
+    "price": 4099,
+    "image": "/images/components/ram.png",
+    "rating": 4.7461945217259975,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR4",
+      "capacity": "8 GB (1 x 8 GB)",
+      "speed": "3600 MHz",
+      "latency": "CL18",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 5
+    }
+  },
+  {
+    "id": "ram-crucial-pro-8-gb--1x8gb--ddr4-3600",
+    "category": "memory",
+    "name": "Crucial Pro 8 GB (1x8GB) DDR4-3600",
+    "brand": "Crucial",
+    "price": 3099,
+    "image": "/images/components/ram.png",
+    "rating": 4.876355397919701,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR4",
+      "capacity": "8 GB (1 x 8 GB)",
+      "speed": "3600 MHz",
+      "latency": "CL18",
+      "voltage": "1.35V",
+      "rgb": false,
+      "tdp": 5
+    }
+  },
+  {
+    "id": "ram-teamgroup-t-force-delta-rgb-8-gb--1x8gb--ddr4-3600",
+    "category": "memory",
+    "name": "TeamGroup T-Force Delta RGB 8 GB (1x8GB) DDR4-3600",
+    "brand": "TeamGroup",
+    "price": 4099,
+    "image": "/images/components/ram.png",
+    "rating": 4.99823784896026,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR4",
+      "capacity": "8 GB (1 x 8 GB)",
+      "speed": "3600 MHz",
+      "latency": "CL18",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 5
+    }
+  },
+  {
+    "id": "ram-corsair-vengeance-rgb-16-gb--2x8gb--ddr4-3200",
+    "category": "memory",
+    "name": "Corsair Vengeance RGB 16 GB (2x8GB) DDR4-3200",
+    "brand": "Corsair",
+    "price": 8990,
+    "image": "/images/components/ram.png",
+    "rating": 4.979800124927542,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR4",
+      "capacity": "16 GB (2 x 8 GB)",
+      "speed": "3200 MHz",
+      "latency": "CL16",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "ram-corsair-vengeance-16-gb--2x8gb--ddr4-3200",
+    "category": "memory",
+    "name": "Corsair Vengeance 16 GB (2x8GB) DDR4-3200",
+    "brand": "Corsair",
+    "price": 5990,
+    "image": "/images/components/ram.png",
+    "rating": 4.9309354161013585,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR4",
+      "capacity": "16 GB (2 x 8 GB)",
+      "speed": "3200 MHz",
+      "latency": "CL16",
+      "voltage": "1.35V",
+      "rgb": false,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "ram-g-skill-ripjaws-v-16-gb--2x8gb--ddr4-3200",
+    "category": "memory",
+    "name": "G.Skill Ripjaws V 16 GB (2x8GB) DDR4-3200",
+    "brand": "G.Skill",
+    "price": 4699,
+    "image": "/images/components/ram.png",
+    "rating": 4.6344551696348635,
+    "availability": "Low Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR4",
+      "capacity": "16 GB (2 x 8 GB)",
+      "speed": "3200 MHz",
+      "latency": "CL16",
+      "voltage": "1.35V",
+      "rgb": false,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "ram-kingston-fury-beast-rgb-16-gb--2x8gb--ddr4-3200",
+    "category": "memory",
+    "name": "Kingston FURY Beast RGB 16 GB (2x8GB) DDR4-3200",
+    "brand": "Kingston",
+    "price": 7990,
+    "image": "/images/components/ram.png",
+    "rating": 4.983270926529667,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR4",
+      "capacity": "16 GB (2 x 8 GB)",
+      "speed": "3200 MHz",
+      "latency": "CL16",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "ram-kingston-fury-beast-16-gb--2x8gb--ddr4-3200",
+    "category": "memory",
+    "name": "Kingston FURY Beast 16 GB (2x8GB) DDR4-3200",
+    "brand": "Kingston",
+    "price": 4699,
+    "image": "/images/components/ram.png",
+    "rating": 4.674855767526184,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR4",
+      "capacity": "16 GB (2 x 8 GB)",
+      "speed": "3200 MHz",
+      "latency": "CL16",
+      "voltage": "1.35V",
+      "rgb": false,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "ram-crucial-pro-rgb-16-gb--2x8gb--ddr4-3200",
+    "category": "memory",
+    "name": "Crucial Pro RGB 16 GB (2x8GB) DDR4-3200",
+    "brand": "Crucial",
+    "price": 7990,
+    "image": "/images/components/ram.png",
+    "rating": 4.801285105712433,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR4",
+      "capacity": "16 GB (2 x 8 GB)",
+      "speed": "3200 MHz",
+      "latency": "CL16",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "ram-crucial-pro-16-gb--2x8gb--ddr4-3200",
+    "category": "memory",
+    "name": "Crucial Pro 16 GB (2x8GB) DDR4-3200",
+    "brand": "Crucial",
+    "price": 4699,
+    "image": "/images/components/ram.png",
+    "rating": 4.533959225522454,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR4",
+      "capacity": "16 GB (2 x 8 GB)",
+      "speed": "3200 MHz",
+      "latency": "CL16",
+      "voltage": "1.35V",
+      "rgb": false,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "ram-teamgroup-t-force-delta-rgb-16-gb--2x8gb--ddr4-3200",
+    "category": "memory",
+    "name": "TeamGroup T-Force Delta RGB 16 GB (2x8GB) DDR4-3200",
+    "brand": "TeamGroup",
+    "price": 7990,
+    "image": "/images/components/ram.png",
+    "rating": 4.873319768753323,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR4",
+      "capacity": "16 GB (2 x 8 GB)",
+      "speed": "3200 MHz",
+      "latency": "CL16",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "ram-corsair-vengeance-rgb-16-gb--2x8gb--ddr4-3600",
+    "category": "memory",
+    "name": "Corsair Vengeance RGB 16 GB (2x8GB) DDR4-3600",
+    "brand": "Corsair",
+    "price": 9990,
+    "image": "/images/components/ram.png",
+    "rating": 4.521310890755606,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR4",
+      "capacity": "16 GB (2 x 8 GB)",
+      "speed": "3600 MHz",
+      "latency": "CL18",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "ram-corsair-vengeance-16-gb--2x8gb--ddr4-3600",
+    "category": "memory",
+    "name": "Corsair Vengeance 16 GB (2x8GB) DDR4-3600",
+    "brand": "Corsair",
+    "price": 7990,
+    "image": "/images/components/ram.png",
+    "rating": 4.871945922828069,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR4",
+      "capacity": "16 GB (2 x 8 GB)",
+      "speed": "3600 MHz",
+      "latency": "CL18",
+      "voltage": "1.35V",
+      "rgb": false,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "ram-g-skill-ripjaws-v-16-gb--2x8gb--ddr4-3600",
+    "category": "memory",
+    "name": "G.Skill Ripjaws V 16 GB (2x8GB) DDR4-3600",
+    "brand": "G.Skill",
+    "price": 5990,
+    "image": "/images/components/ram.png",
+    "rating": 4.705694109420277,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR4",
+      "capacity": "16 GB (2 x 8 GB)",
+      "speed": "3600 MHz",
+      "latency": "CL18",
+      "voltage": "1.35V",
+      "rgb": false,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "ram-kingston-fury-beast-rgb-16-gb--2x8gb--ddr4-3600",
+    "category": "memory",
+    "name": "Kingston FURY Beast RGB 16 GB (2x8GB) DDR4-3600",
+    "brand": "Kingston",
+    "price": 8990,
+    "image": "/images/components/ram.png",
+    "rating": 4.7510048500203865,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR4",
+      "capacity": "16 GB (2 x 8 GB)",
+      "speed": "3600 MHz",
+      "latency": "CL18",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "ram-kingston-fury-beast-16-gb--2x8gb--ddr4-3600",
+    "category": "memory",
+    "name": "Kingston FURY Beast 16 GB (2x8GB) DDR4-3600",
+    "brand": "Kingston",
+    "price": 5990,
+    "image": "/images/components/ram.png",
+    "rating": 4.75728119340886,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR4",
+      "capacity": "16 GB (2 x 8 GB)",
+      "speed": "3600 MHz",
+      "latency": "CL18",
+      "voltage": "1.35V",
+      "rgb": false,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "ram-crucial-pro-rgb-16-gb--2x8gb--ddr4-3600",
+    "category": "memory",
+    "name": "Crucial Pro RGB 16 GB (2x8GB) DDR4-3600",
+    "brand": "Crucial",
+    "price": 8990,
+    "image": "/images/components/ram.png",
+    "rating": 4.8294662167758,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR4",
+      "capacity": "16 GB (2 x 8 GB)",
+      "speed": "3600 MHz",
+      "latency": "CL18",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "ram-crucial-pro-16-gb--2x8gb--ddr4-3600",
+    "category": "memory",
+    "name": "Crucial Pro 16 GB (2x8GB) DDR4-3600",
+    "brand": "Crucial",
+    "price": 5990,
+    "image": "/images/components/ram.png",
+    "rating": 4.945406429282394,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR4",
+      "capacity": "16 GB (2 x 8 GB)",
+      "speed": "3600 MHz",
+      "latency": "CL18",
+      "voltage": "1.35V",
+      "rgb": false,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "ram-teamgroup-t-force-delta-rgb-16-gb--2x8gb--ddr4-3600",
+    "category": "memory",
+    "name": "TeamGroup T-Force Delta RGB 16 GB (2x8GB) DDR4-3600",
+    "brand": "TeamGroup",
+    "price": 8990,
+    "image": "/images/components/ram.png",
+    "rating": 4.944146033503957,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR4",
+      "capacity": "16 GB (2 x 8 GB)",
+      "speed": "3600 MHz",
+      "latency": "CL18",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "ram-corsair-vengeance-rgb-16-gb--1x16gb--ddr4-3200",
+    "category": "memory",
+    "name": "Corsair Vengeance RGB 16 GB (1x16GB) DDR4-3200",
+    "brand": "Corsair",
+    "price": 5990,
+    "image": "/images/components/ram.png",
+    "rating": 4.678494781125761,
+    "availability": "Low Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR4",
+      "capacity": "16 GB (1 x 16 GB)",
+      "speed": "3200 MHz",
+      "latency": "CL16",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 5
+    }
+  },
+  {
+    "id": "ram-corsair-vengeance-16-gb--1x16gb--ddr4-3200",
+    "category": "memory",
+    "name": "Corsair Vengeance 16 GB (1x16GB) DDR4-3200",
+    "brand": "Corsair",
+    "price": 4499,
+    "image": "/images/components/ram.png",
+    "rating": 4.870661258595935,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR4",
+      "capacity": "16 GB (1 x 16 GB)",
+      "speed": "3200 MHz",
+      "latency": "CL16",
+      "voltage": "1.35V",
+      "rgb": false,
+      "tdp": 5
+    }
+  },
+  {
+    "id": "ram-g-skill-ripjaws-v-16-gb--1x16gb--ddr4-3200",
+    "category": "memory",
+    "name": "G.Skill Ripjaws V 16 GB (1x16GB) DDR4-3200",
+    "brand": "G.Skill",
+    "price": 4099,
+    "image": "/images/components/ram.png",
+    "rating": 4.894252528939438,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR4",
+      "capacity": "16 GB (1 x 16 GB)",
+      "speed": "3200 MHz",
+      "latency": "CL16",
+      "voltage": "1.35V",
+      "rgb": false,
+      "tdp": 5
+    }
+  },
+  {
+    "id": "ram-kingston-fury-beast-rgb-16-gb--1x16gb--ddr4-3200",
+    "category": "memory",
+    "name": "Kingston FURY Beast RGB 16 GB (1x16GB) DDR4-3200",
+    "brand": "Kingston",
+    "price": 5990,
+    "image": "/images/components/ram.png",
+    "rating": 4.6252712954685045,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR4",
+      "capacity": "16 GB (1 x 16 GB)",
+      "speed": "3200 MHz",
+      "latency": "CL16",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 5
+    }
+  },
+  {
+    "id": "ram-kingston-fury-beast-16-gb--1x16gb--ddr4-3200",
+    "category": "memory",
+    "name": "Kingston FURY Beast 16 GB (1x16GB) DDR4-3200",
+    "brand": "Kingston",
+    "price": 4099,
+    "image": "/images/components/ram.png",
+    "rating": 4.708563027711893,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR4",
+      "capacity": "16 GB (1 x 16 GB)",
+      "speed": "3200 MHz",
+      "latency": "CL16",
+      "voltage": "1.35V",
+      "rgb": false,
+      "tdp": 5
+    }
+  },
+  {
+    "id": "ram-crucial-pro-rgb-16-gb--1x16gb--ddr4-3200",
+    "category": "memory",
+    "name": "Crucial Pro RGB 16 GB (1x16GB) DDR4-3200",
+    "brand": "Crucial",
+    "price": 5990,
+    "image": "/images/components/ram.png",
+    "rating": 4.979588279477492,
+    "availability": "Low Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR4",
+      "capacity": "16 GB (1 x 16 GB)",
+      "speed": "3200 MHz",
+      "latency": "CL16",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 5
+    }
+  },
+  {
+    "id": "ram-crucial-pro-16-gb--1x16gb--ddr4-3200",
+    "category": "memory",
+    "name": "Crucial Pro 16 GB (1x16GB) DDR4-3200",
+    "brand": "Crucial",
+    "price": 4099,
+    "image": "/images/components/ram.png",
+    "rating": 4.644531768189205,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR4",
+      "capacity": "16 GB (1 x 16 GB)",
+      "speed": "3200 MHz",
+      "latency": "CL16",
+      "voltage": "1.35V",
+      "rgb": false,
+      "tdp": 5
+    }
+  },
+  {
+    "id": "ram-teamgroup-t-force-delta-rgb-16-gb--1x16gb--ddr4-3200",
+    "category": "memory",
+    "name": "TeamGroup T-Force Delta RGB 16 GB (1x16GB) DDR4-3200",
+    "brand": "TeamGroup",
+    "price": 5990,
+    "image": "/images/components/ram.png",
+    "rating": 4.63161642417845,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR4",
+      "capacity": "16 GB (1 x 16 GB)",
+      "speed": "3200 MHz",
+      "latency": "CL16",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 5
+    }
+  },
+  {
+    "id": "ram-corsair-vengeance-rgb-32-gb--2x16gb--ddr4-3600",
+    "category": "memory",
+    "name": "Corsair Vengeance RGB 32 GB (2x16GB) DDR4-3600",
+    "brand": "Corsair",
+    "price": 11990,
+    "image": "/images/components/ram.png",
+    "rating": 4.934483828747777,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR4",
+      "capacity": "32 GB (2 x 16 GB)",
+      "speed": "3600 MHz",
+      "latency": "CL18",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "ram-corsair-vengeance-32-gb--2x16gb--ddr4-3600",
+    "category": "memory",
+    "name": "Corsair Vengeance 32 GB (2x16GB) DDR4-3600",
+    "brand": "Corsair",
+    "price": 9990,
+    "image": "/images/components/ram.png",
+    "rating": 4.747468818025618,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR4",
+      "capacity": "32 GB (2 x 16 GB)",
+      "speed": "3600 MHz",
+      "latency": "CL18",
+      "voltage": "1.35V",
+      "rgb": false,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "ram-g-skill-ripjaws-v-32-gb--2x16gb--ddr4-3600",
+    "category": "memory",
+    "name": "G.Skill Ripjaws V 32 GB (2x16GB) DDR4-3600",
+    "brand": "G.Skill",
+    "price": 9990,
+    "image": "/images/components/ram.png",
+    "rating": 4.936719257141798,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR4",
+      "capacity": "32 GB (2 x 16 GB)",
+      "speed": "3600 MHz",
+      "latency": "CL18",
+      "voltage": "1.35V",
+      "rgb": false,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "ram-kingston-fury-beast-rgb-32-gb--2x16gb--ddr4-3600",
+    "category": "memory",
+    "name": "Kingston FURY Beast RGB 32 GB (2x16GB) DDR4-3600",
+    "brand": "Kingston",
+    "price": 10990,
+    "image": "/images/components/ram.png",
+    "rating": 4.788595314798402,
+    "availability": "Low Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR4",
+      "capacity": "32 GB (2 x 16 GB)",
+      "speed": "3600 MHz",
+      "latency": "CL18",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "ram-kingston-fury-beast-32-gb--2x16gb--ddr4-3600",
+    "category": "memory",
+    "name": "Kingston FURY Beast 32 GB (2x16GB) DDR4-3600",
+    "brand": "Kingston",
+    "price": 9990,
+    "image": "/images/components/ram.png",
+    "rating": 4.62769048618157,
+    "availability": "Low Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR4",
+      "capacity": "32 GB (2 x 16 GB)",
+      "speed": "3600 MHz",
+      "latency": "CL18",
+      "voltage": "1.35V",
+      "rgb": false,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "ram-crucial-pro-rgb-32-gb--2x16gb--ddr4-3600",
+    "category": "memory",
+    "name": "Crucial Pro RGB 32 GB (2x16GB) DDR4-3600",
+    "brand": "Crucial",
+    "price": 10990,
+    "image": "/images/components/ram.png",
+    "rating": 4.6435990994148435,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR4",
+      "capacity": "32 GB (2 x 16 GB)",
+      "speed": "3600 MHz",
+      "latency": "CL18",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "ram-crucial-pro-32-gb--2x16gb--ddr4-3600",
+    "category": "memory",
+    "name": "Crucial Pro 32 GB (2x16GB) DDR4-3600",
+    "brand": "Crucial",
+    "price": 9990,
+    "image": "/images/components/ram.png",
+    "rating": 4.6012321508623835,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR4",
+      "capacity": "32 GB (2 x 16 GB)",
+      "speed": "3600 MHz",
+      "latency": "CL18",
+      "voltage": "1.35V",
+      "rgb": false,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "ram-teamgroup-t-force-delta-rgb-32-gb--2x16gb--ddr4-3600",
+    "category": "memory",
+    "name": "TeamGroup T-Force Delta RGB 32 GB (2x16GB) DDR4-3600",
+    "brand": "TeamGroup",
+    "price": 10990,
+    "image": "/images/components/ram.png",
+    "rating": 4.682289102582167,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR4",
+      "capacity": "32 GB (2 x 16 GB)",
+      "speed": "3600 MHz",
+      "latency": "CL18",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "ram-corsair-vengeance-rgb-32-gb--4x8gb--ddr4-3600",
+    "category": "memory",
+    "name": "Corsair Vengeance RGB 32 GB (4x8GB) DDR4-3600",
+    "brand": "Corsair",
+    "price": 16990,
+    "image": "/images/components/ram.png",
+    "rating": 4.843438899887275,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR4",
+      "capacity": "32 GB (4 x 8 GB)",
+      "speed": "3600 MHz",
+      "latency": "CL18",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 20
+    }
+  },
+  {
+    "id": "ram-corsair-vengeance-32-gb--4x8gb--ddr4-3600",
+    "category": "memory",
+    "name": "Corsair Vengeance 32 GB (4x8GB) DDR4-3600",
+    "brand": "Corsair",
+    "price": 11990,
+    "image": "/images/components/ram.png",
+    "rating": 4.566319294470507,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR4",
+      "capacity": "32 GB (4 x 8 GB)",
+      "speed": "3600 MHz",
+      "latency": "CL18",
+      "voltage": "1.35V",
+      "rgb": false,
+      "tdp": 20
+    }
+  },
+  {
+    "id": "ram-g-skill-ripjaws-v-32-gb--4x8gb--ddr4-3600",
+    "category": "memory",
+    "name": "G.Skill Ripjaws V 32 GB (4x8GB) DDR4-3600",
+    "brand": "G.Skill",
+    "price": 10990,
+    "image": "/images/components/ram.png",
+    "rating": 4.843752790656163,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR4",
+      "capacity": "32 GB (4 x 8 GB)",
+      "speed": "3600 MHz",
+      "latency": "CL18",
+      "voltage": "1.35V",
+      "rgb": false,
+      "tdp": 20
+    }
+  },
+  {
+    "id": "ram-kingston-fury-beast-rgb-32-gb--4x8gb--ddr4-3600",
+    "category": "memory",
+    "name": "Kingston FURY Beast RGB 32 GB (4x8GB) DDR4-3600",
+    "brand": "Kingston",
+    "price": 14990,
+    "image": "/images/components/ram.png",
+    "rating": 4.926777265571328,
+    "availability": "Low Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR4",
+      "capacity": "32 GB (4 x 8 GB)",
+      "speed": "3600 MHz",
+      "latency": "CL18",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 20
+    }
+  },
+  {
+    "id": "ram-kingston-fury-beast-32-gb--4x8gb--ddr4-3600",
+    "category": "memory",
+    "name": "Kingston FURY Beast 32 GB (4x8GB) DDR4-3600",
+    "brand": "Kingston",
+    "price": 10990,
+    "image": "/images/components/ram.png",
+    "rating": 4.622925457214217,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR4",
+      "capacity": "32 GB (4 x 8 GB)",
+      "speed": "3600 MHz",
+      "latency": "CL18",
+      "voltage": "1.35V",
+      "rgb": false,
+      "tdp": 20
+    }
+  },
+  {
+    "id": "ram-crucial-pro-rgb-32-gb--4x8gb--ddr4-3600",
+    "category": "memory",
+    "name": "Crucial Pro RGB 32 GB (4x8GB) DDR4-3600",
+    "brand": "Crucial",
+    "price": 14990,
+    "image": "/images/components/ram.png",
+    "rating": 4.651845318274829,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR4",
+      "capacity": "32 GB (4 x 8 GB)",
+      "speed": "3600 MHz",
+      "latency": "CL18",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 20
+    }
+  },
+  {
+    "id": "ram-crucial-pro-32-gb--4x8gb--ddr4-3600",
+    "category": "memory",
+    "name": "Crucial Pro 32 GB (4x8GB) DDR4-3600",
+    "brand": "Crucial",
+    "price": 10990,
+    "image": "/images/components/ram.png",
+    "rating": 4.682635600276262,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR4",
+      "capacity": "32 GB (4 x 8 GB)",
+      "speed": "3600 MHz",
+      "latency": "CL18",
+      "voltage": "1.35V",
+      "rgb": false,
+      "tdp": 20
+    }
+  },
+  {
+    "id": "ram-teamgroup-t-force-delta-rgb-32-gb--4x8gb--ddr4-3600",
+    "category": "memory",
+    "name": "TeamGroup T-Force Delta RGB 32 GB (4x8GB) DDR4-3600",
+    "brand": "TeamGroup",
+    "price": 14990,
+    "image": "/images/components/ram.png",
+    "rating": 4.9767747703236545,
+    "availability": "Low Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR4",
+      "capacity": "32 GB (4 x 8 GB)",
+      "speed": "3600 MHz",
+      "latency": "CL18",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 20
+    }
+  },
+  {
+    "id": "ram-corsair-vengeance-rgb-64-gb--2x32gb--ddr4-3600",
+    "category": "memory",
+    "name": "Corsair Vengeance RGB 64 GB (2x32GB) DDR4-3600",
+    "brand": "Corsair",
+    "price": 20990,
+    "image": "/images/components/ram.png",
+    "rating": 4.50818228003721,
+    "availability": "Low Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR4",
+      "capacity": "64 GB (2 x 32 GB)",
+      "speed": "3600 MHz",
+      "latency": "CL18",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "ram-corsair-vengeance-64-gb--2x32gb--ddr4-3600",
+    "category": "memory",
+    "name": "Corsair Vengeance 64 GB (2x32GB) DDR4-3600",
+    "brand": "Corsair",
+    "price": 17990,
+    "image": "/images/components/ram.png",
+    "rating": 4.615817619859097,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR4",
+      "capacity": "64 GB (2 x 32 GB)",
+      "speed": "3600 MHz",
+      "latency": "CL18",
+      "voltage": "1.35V",
+      "rgb": false,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "ram-g-skill-ripjaws-v-64-gb--2x32gb--ddr4-3600",
+    "category": "memory",
+    "name": "G.Skill Ripjaws V 64 GB (2x32GB) DDR4-3600",
+    "brand": "G.Skill",
+    "price": 16990,
+    "image": "/images/components/ram.png",
+    "rating": 4.738798146984111,
+    "availability": "Low Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR4",
+      "capacity": "64 GB (2 x 32 GB)",
+      "speed": "3600 MHz",
+      "latency": "CL18",
+      "voltage": "1.35V",
+      "rgb": false,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "ram-kingston-fury-beast-rgb-64-gb--2x32gb--ddr4-3600",
+    "category": "memory",
+    "name": "Kingston FURY Beast RGB 64 GB (2x32GB) DDR4-3600",
+    "brand": "Kingston",
+    "price": 18990,
+    "image": "/images/components/ram.png",
+    "rating": 4.637472821731555,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR4",
+      "capacity": "64 GB (2 x 32 GB)",
+      "speed": "3600 MHz",
+      "latency": "CL18",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "ram-kingston-fury-beast-64-gb--2x32gb--ddr4-3600",
+    "category": "memory",
+    "name": "Kingston FURY Beast 64 GB (2x32GB) DDR4-3600",
+    "brand": "Kingston",
+    "price": 16990,
+    "image": "/images/components/ram.png",
+    "rating": 4.873327331249923,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR4",
+      "capacity": "64 GB (2 x 32 GB)",
+      "speed": "3600 MHz",
+      "latency": "CL18",
+      "voltage": "1.35V",
+      "rgb": false,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "ram-crucial-pro-rgb-64-gb--2x32gb--ddr4-3600",
+    "category": "memory",
+    "name": "Crucial Pro RGB 64 GB (2x32GB) DDR4-3600",
+    "brand": "Crucial",
+    "price": 18990,
+    "image": "/images/components/ram.png",
+    "rating": 4.7901247554565405,
+    "availability": "Low Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR4",
+      "capacity": "64 GB (2 x 32 GB)",
+      "speed": "3600 MHz",
+      "latency": "CL18",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "ram-crucial-pro-64-gb--2x32gb--ddr4-3600",
+    "category": "memory",
+    "name": "Crucial Pro 64 GB (2x32GB) DDR4-3600",
+    "brand": "Crucial",
+    "price": 16990,
+    "image": "/images/components/ram.png",
+    "rating": 4.565542680794371,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR4",
+      "capacity": "64 GB (2 x 32 GB)",
+      "speed": "3600 MHz",
+      "latency": "CL18",
+      "voltage": "1.35V",
+      "rgb": false,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "ram-teamgroup-t-force-delta-rgb-64-gb--2x32gb--ddr4-3600",
+    "category": "memory",
+    "name": "TeamGroup T-Force Delta RGB 64 GB (2x32GB) DDR4-3600",
+    "brand": "TeamGroup",
+    "price": 18990,
+    "image": "/images/components/ram.png",
+    "rating": 4.923927547346927,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR4",
+      "capacity": "64 GB (2 x 32 GB)",
+      "speed": "3600 MHz",
+      "latency": "CL18",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "ram-corsair-vengeance-rgb-8-gb--1x8gb--ddr5-4800",
+    "category": "memory",
+    "name": "Corsair Vengeance RGB 8 GB (1x8GB) DDR5-4800",
+    "brand": "Corsair",
+    "price": 5990,
+    "image": "/images/components/ram.png",
+    "rating": 4.988803931127073,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "8 GB (1 x 8 GB)",
+      "speed": "4800 MHz",
+      "latency": "CL40",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 5
+    }
+  },
+  {
+    "id": "ram-corsair-vengeance-8-gb--1x8gb--ddr5-4800",
+    "category": "memory",
+    "name": "Corsair Vengeance 8 GB (1x8GB) DDR5-4800",
+    "brand": "Corsair",
+    "price": 4099,
+    "image": "/images/components/ram.png",
+    "rating": 4.998047367648592,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "8 GB (1 x 8 GB)",
+      "speed": "4800 MHz",
+      "latency": "CL40",
+      "voltage": "1.35V",
+      "rgb": false,
+      "tdp": 5
+    }
+  },
+  {
+    "id": "ram-g-skill-trident-z5-rgb-8-gb--1x8gb--ddr5-4800",
+    "category": "memory",
+    "name": "G.Skill Trident Z5 RGB 8 GB (1x8GB) DDR5-4800",
+    "brand": "G.Skill",
+    "price": 5990,
+    "image": "/images/components/ram.png",
+    "rating": 4.833898517925154,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "8 GB (1 x 8 GB)",
+      "speed": "4800 MHz",
+      "latency": "CL40",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 5
+    }
+  },
+  {
+    "id": "ram-g-skill-trident-z5-8-gb--1x8gb--ddr5-4800",
+    "category": "memory",
+    "name": "G.Skill Trident Z5 8 GB (1x8GB) DDR5-4800",
+    "brand": "G.Skill",
+    "price": 4099,
+    "image": "/images/components/ram.png",
+    "rating": 4.854554841411205,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "8 GB (1 x 8 GB)",
+      "speed": "4800 MHz",
+      "latency": "CL40",
+      "voltage": "1.35V",
+      "rgb": false,
+      "tdp": 5
+    }
+  },
+  {
+    "id": "ram-kingston-fury-beast-rgb-8-gb--1x8gb--ddr5-4800",
+    "category": "memory",
+    "name": "Kingston FURY Beast RGB 8 GB (1x8GB) DDR5-4800",
+    "brand": "Kingston",
+    "price": 4699,
+    "image": "/images/components/ram.png",
+    "rating": 4.59427674722171,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "8 GB (1 x 8 GB)",
+      "speed": "4800 MHz",
+      "latency": "CL40",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 5
+    }
+  },
+  {
+    "id": "ram-kingston-fury-beast-8-gb--1x8gb--ddr5-4800",
+    "category": "memory",
+    "name": "Kingston FURY Beast 8 GB (1x8GB) DDR5-4800",
+    "brand": "Kingston",
+    "price": 3599,
+    "image": "/images/components/ram.png",
+    "rating": 4.917615459820024,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "8 GB (1 x 8 GB)",
+      "speed": "4800 MHz",
+      "latency": "CL40",
+      "voltage": "1.35V",
+      "rgb": false,
+      "tdp": 5
+    }
+  },
+  {
+    "id": "ram-crucial-pro-rgb-8-gb--1x8gb--ddr5-4800",
+    "category": "memory",
+    "name": "Crucial Pro RGB 8 GB (1x8GB) DDR5-4800",
+    "brand": "Crucial",
+    "price": 4699,
+    "image": "/images/components/ram.png",
+    "rating": 4.8371118506087445,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "8 GB (1 x 8 GB)",
+      "speed": "4800 MHz",
+      "latency": "CL40",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 5
+    }
+  },
+  {
+    "id": "ram-crucial-pro-8-gb--1x8gb--ddr5-4800",
+    "category": "memory",
+    "name": "Crucial Pro 8 GB (1x8GB) DDR5-4800",
+    "brand": "Crucial",
+    "price": 3599,
+    "image": "/images/components/ram.png",
+    "rating": 4.807797211615401,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "8 GB (1 x 8 GB)",
+      "speed": "4800 MHz",
+      "latency": "CL40",
+      "voltage": "1.35V",
+      "rgb": false,
+      "tdp": 5
+    }
+  },
+  {
+    "id": "ram-teamgroup-t-force-delta-rgb-8-gb--1x8gb--ddr5-4800",
+    "category": "memory",
+    "name": "TeamGroup T-Force Delta RGB 8 GB (1x8GB) DDR5-4800",
+    "brand": "TeamGroup",
+    "price": 4699,
+    "image": "/images/components/ram.png",
+    "rating": 4.689775275692318,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "8 GB (1 x 8 GB)",
+      "speed": "4800 MHz",
+      "latency": "CL40",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 5
+    }
+  },
+  {
+    "id": "ram-corsair-vengeance-rgb-16-gb--1x16gb--ddr5-5200",
+    "category": "memory",
+    "name": "Corsair Vengeance RGB 16 GB (1x16GB) DDR5-5200",
+    "brand": "Corsair",
+    "price": 8990,
+    "image": "/images/components/ram.png",
+    "rating": 4.9030436365363155,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "16 GB (1 x 16 GB)",
+      "speed": "5200 MHz",
+      "latency": "CL40",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 5
+    }
+  },
+  {
+    "id": "ram-corsair-vengeance-16-gb--1x16gb--ddr5-5200",
+    "category": "memory",
+    "name": "Corsair Vengeance 16 GB (1x16GB) DDR5-5200",
+    "brand": "Corsair",
+    "price": 7990,
+    "image": "/images/components/ram.png",
+    "rating": 4.988930337764561,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "16 GB (1 x 16 GB)",
+      "speed": "5200 MHz",
+      "latency": "CL40",
+      "voltage": "1.35V",
+      "rgb": false,
+      "tdp": 5
+    }
+  },
+  {
+    "id": "ram-g-skill-trident-z5-rgb-16-gb--1x16gb--ddr5-5200",
+    "category": "memory",
+    "name": "G.Skill Trident Z5 RGB 16 GB (1x16GB) DDR5-5200",
+    "brand": "G.Skill",
+    "price": 8990,
+    "image": "/images/components/ram.png",
+    "rating": 4.786605286010317,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "16 GB (1 x 16 GB)",
+      "speed": "5200 MHz",
+      "latency": "CL40",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 5
+    }
+  },
+  {
+    "id": "ram-g-skill-trident-z5-16-gb--1x16gb--ddr5-5200",
+    "category": "memory",
+    "name": "G.Skill Trident Z5 16 GB (1x16GB) DDR5-5200",
+    "brand": "G.Skill",
+    "price": 7990,
+    "image": "/images/components/ram.png",
+    "rating": 4.719851594218753,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "16 GB (1 x 16 GB)",
+      "speed": "5200 MHz",
+      "latency": "CL40",
+      "voltage": "1.35V",
+      "rgb": false,
+      "tdp": 5
+    }
+  },
+  {
+    "id": "ram-kingston-fury-beast-rgb-16-gb--1x16gb--ddr5-5200",
+    "category": "memory",
+    "name": "Kingston FURY Beast RGB 16 GB (1x16GB) DDR5-5200",
+    "brand": "Kingston",
+    "price": 7990,
+    "image": "/images/components/ram.png",
+    "rating": 4.710561625983148,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "16 GB (1 x 16 GB)",
+      "speed": "5200 MHz",
+      "latency": "CL40",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 5
+    }
+  },
+  {
+    "id": "ram-kingston-fury-beast-16-gb--1x16gb--ddr5-5200",
+    "category": "memory",
+    "name": "Kingston FURY Beast 16 GB (1x16GB) DDR5-5200",
+    "brand": "Kingston",
+    "price": 5990,
+    "image": "/images/components/ram.png",
+    "rating": 4.760471404314181,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "16 GB (1 x 16 GB)",
+      "speed": "5200 MHz",
+      "latency": "CL40",
+      "voltage": "1.35V",
+      "rgb": false,
+      "tdp": 5
+    }
+  },
+  {
+    "id": "ram-crucial-pro-rgb-16-gb--1x16gb--ddr5-5200",
+    "category": "memory",
+    "name": "Crucial Pro RGB 16 GB (1x16GB) DDR5-5200",
+    "brand": "Crucial",
+    "price": 7990,
+    "image": "/images/components/ram.png",
+    "rating": 4.813930048067874,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "16 GB (1 x 16 GB)",
+      "speed": "5200 MHz",
+      "latency": "CL40",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 5
+    }
+  },
+  {
+    "id": "ram-crucial-pro-16-gb--1x16gb--ddr5-5200",
+    "category": "memory",
+    "name": "Crucial Pro 16 GB (1x16GB) DDR5-5200",
+    "brand": "Crucial",
+    "price": 5990,
+    "image": "/images/components/ram.png",
+    "rating": 4.625535694571104,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "16 GB (1 x 16 GB)",
+      "speed": "5200 MHz",
+      "latency": "CL40",
+      "voltage": "1.35V",
+      "rgb": false,
+      "tdp": 5
+    }
+  },
+  {
+    "id": "ram-teamgroup-t-force-delta-rgb-16-gb--1x16gb--ddr5-5200",
+    "category": "memory",
+    "name": "TeamGroup T-Force Delta RGB 16 GB (1x16GB) DDR5-5200",
+    "brand": "TeamGroup",
+    "price": 7990,
+    "image": "/images/components/ram.png",
+    "rating": 4.976930227980183,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "16 GB (1 x 16 GB)",
+      "speed": "5200 MHz",
+      "latency": "CL40",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 5
+    }
+  },
+  {
+    "id": "ram-corsair-vengeance-rgb-16-gb--2x8gb--ddr5-5200",
+    "category": "memory",
+    "name": "Corsair Vengeance RGB 16 GB (2x8GB) DDR5-5200",
+    "brand": "Corsair",
+    "price": 10990,
+    "image": "/images/components/ram.png",
+    "rating": 4.5619219777502735,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "16 GB (2 x 8 GB)",
+      "speed": "5200 MHz",
+      "latency": "CL40",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "ram-corsair-vengeance-16-gb--2x8gb--ddr5-5200",
+    "category": "memory",
+    "name": "Corsair Vengeance 16 GB (2x8GB) DDR5-5200",
+    "brand": "Corsair",
+    "price": 8990,
+    "image": "/images/components/ram.png",
+    "rating": 4.507714952591537,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "16 GB (2 x 8 GB)",
+      "speed": "5200 MHz",
+      "latency": "CL40",
+      "voltage": "1.35V",
+      "rgb": false,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "ram-g-skill-trident-z5-rgb-16-gb--2x8gb--ddr5-5200",
+    "category": "memory",
+    "name": "G.Skill Trident Z5 RGB 16 GB (2x8GB) DDR5-5200",
+    "brand": "G.Skill",
+    "price": 10990,
+    "image": "/images/components/ram.png",
+    "rating": 4.572670703741526,
+    "availability": "Low Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "16 GB (2 x 8 GB)",
+      "speed": "5200 MHz",
+      "latency": "CL40",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "ram-g-skill-trident-z5-16-gb--2x8gb--ddr5-5200",
+    "category": "memory",
+    "name": "G.Skill Trident Z5 16 GB (2x8GB) DDR5-5200",
+    "brand": "G.Skill",
+    "price": 8990,
+    "image": "/images/components/ram.png",
+    "rating": 4.652197801297581,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "16 GB (2 x 8 GB)",
+      "speed": "5200 MHz",
+      "latency": "CL40",
+      "voltage": "1.35V",
+      "rgb": false,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "ram-kingston-fury-beast-rgb-16-gb--2x8gb--ddr5-5200",
+    "category": "memory",
+    "name": "Kingston FURY Beast RGB 16 GB (2x8GB) DDR5-5200",
+    "brand": "Kingston",
+    "price": 9990,
+    "image": "/images/components/ram.png",
+    "rating": 4.72866829978645,
+    "availability": "Low Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "16 GB (2 x 8 GB)",
+      "speed": "5200 MHz",
+      "latency": "CL40",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "ram-kingston-fury-beast-16-gb--2x8gb--ddr5-5200",
+    "category": "memory",
+    "name": "Kingston FURY Beast 16 GB (2x8GB) DDR5-5200",
+    "brand": "Kingston",
+    "price": 7990,
+    "image": "/images/components/ram.png",
+    "rating": 4.9927847717592435,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "16 GB (2 x 8 GB)",
+      "speed": "5200 MHz",
+      "latency": "CL40",
+      "voltage": "1.35V",
+      "rgb": false,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "ram-crucial-pro-rgb-16-gb--2x8gb--ddr5-5200",
+    "category": "memory",
+    "name": "Crucial Pro RGB 16 GB (2x8GB) DDR5-5200",
+    "brand": "Crucial",
+    "price": 9990,
+    "image": "/images/components/ram.png",
+    "rating": 4.719663897277736,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "16 GB (2 x 8 GB)",
+      "speed": "5200 MHz",
+      "latency": "CL40",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "ram-crucial-pro-16-gb--2x8gb--ddr5-5200",
+    "category": "memory",
+    "name": "Crucial Pro 16 GB (2x8GB) DDR5-5200",
+    "brand": "Crucial",
+    "price": 7990,
+    "image": "/images/components/ram.png",
+    "rating": 4.955902306791788,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "16 GB (2 x 8 GB)",
+      "speed": "5200 MHz",
+      "latency": "CL40",
+      "voltage": "1.35V",
+      "rgb": false,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "ram-teamgroup-t-force-delta-rgb-16-gb--2x8gb--ddr5-5200",
+    "category": "memory",
+    "name": "TeamGroup T-Force Delta RGB 16 GB (2x8GB) DDR5-5200",
+    "brand": "TeamGroup",
+    "price": 9990,
+    "image": "/images/components/ram.png",
+    "rating": 4.625848289367376,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "16 GB (2 x 8 GB)",
+      "speed": "5200 MHz",
+      "latency": "CL40",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "ram-corsair-vengeance-rgb-32-gb--2x16gb--ddr5-6000",
+    "category": "memory",
+    "name": "Corsair Vengeance RGB 32 GB (2x16GB) DDR5-6000",
+    "brand": "Corsair",
+    "price": 15990,
+    "image": "/images/components/ram.png",
+    "rating": 4.82951726374464,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "32 GB (2 x 16 GB)",
+      "speed": "6000 MHz",
+      "latency": "CL30",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "ram-corsair-vengeance-32-gb--2x16gb--ddr5-6000",
+    "category": "memory",
+    "name": "Corsair Vengeance 32 GB (2x16GB) DDR5-6000",
+    "brand": "Corsair",
+    "price": 12990,
+    "image": "/images/components/ram.png",
+    "rating": 4.862096995638322,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "32 GB (2 x 16 GB)",
+      "speed": "6000 MHz",
+      "latency": "CL30",
+      "voltage": "1.35V",
+      "rgb": false,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "ram-g-skill-trident-z5-rgb-32-gb--2x16gb--ddr5-6000",
+    "category": "memory",
+    "name": "G.Skill Trident Z5 RGB 32 GB (2x16GB) DDR5-6000",
+    "brand": "G.Skill",
+    "price": 15990,
+    "image": "/images/components/ram.png",
+    "rating": 4.554748449442322,
+    "availability": "Low Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "32 GB (2 x 16 GB)",
+      "speed": "6000 MHz",
+      "latency": "CL30",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "ram-g-skill-trident-z5-32-gb--2x16gb--ddr5-6000",
+    "category": "memory",
+    "name": "G.Skill Trident Z5 32 GB (2x16GB) DDR5-6000",
+    "brand": "G.Skill",
+    "price": 12990,
+    "image": "/images/components/ram.png",
+    "rating": 4.520671136011275,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "32 GB (2 x 16 GB)",
+      "speed": "6000 MHz",
+      "latency": "CL30",
+      "voltage": "1.35V",
+      "rgb": false,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "ram-kingston-fury-beast-rgb-32-gb--2x16gb--ddr5-6000",
+    "category": "memory",
+    "name": "Kingston FURY Beast RGB 32 GB (2x16GB) DDR5-6000",
+    "brand": "Kingston",
+    "price": 14990,
+    "image": "/images/components/ram.png",
+    "rating": 4.933954147774411,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "32 GB (2 x 16 GB)",
+      "speed": "6000 MHz",
+      "latency": "CL30",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "ram-kingston-fury-beast-32-gb--2x16gb--ddr5-6000",
+    "category": "memory",
+    "name": "Kingston FURY Beast 32 GB (2x16GB) DDR5-6000",
+    "brand": "Kingston",
+    "price": 11990,
+    "image": "/images/components/ram.png",
+    "rating": 4.578420519516263,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "32 GB (2 x 16 GB)",
+      "speed": "6000 MHz",
+      "latency": "CL30",
+      "voltage": "1.35V",
+      "rgb": false,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "ram-crucial-pro-rgb-32-gb--2x16gb--ddr5-6000",
+    "category": "memory",
+    "name": "Crucial Pro RGB 32 GB (2x16GB) DDR5-6000",
+    "brand": "Crucial",
+    "price": 14990,
+    "image": "/images/components/ram.png",
+    "rating": 4.566090573991063,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "32 GB (2 x 16 GB)",
+      "speed": "6000 MHz",
+      "latency": "CL30",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "ram-crucial-pro-32-gb--2x16gb--ddr5-6000",
+    "category": "memory",
+    "name": "Crucial Pro 32 GB (2x16GB) DDR5-6000",
+    "brand": "Crucial",
+    "price": 11990,
+    "image": "/images/components/ram.png",
+    "rating": 4.892638050204757,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "32 GB (2 x 16 GB)",
+      "speed": "6000 MHz",
+      "latency": "CL30",
+      "voltage": "1.35V",
+      "rgb": false,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "ram-teamgroup-t-force-delta-rgb-32-gb--2x16gb--ddr5-6000",
+    "category": "memory",
+    "name": "TeamGroup T-Force Delta RGB 32 GB (2x16GB) DDR5-6000",
+    "brand": "TeamGroup",
+    "price": 14990,
+    "image": "/images/components/ram.png",
+    "rating": 4.835772483112164,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "32 GB (2 x 16 GB)",
+      "speed": "6000 MHz",
+      "latency": "CL30",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "ram-corsair-vengeance-rgb-32-gb--2x16gb--ddr5-6400",
+    "category": "memory",
+    "name": "Corsair Vengeance RGB 32 GB (2x16GB) DDR5-6400",
+    "brand": "Corsair",
+    "price": 16990,
+    "image": "/images/components/ram.png",
+    "rating": 4.8964670857585295,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "32 GB (2 x 16 GB)",
+      "speed": "6400 MHz",
+      "latency": "CL32",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "ram-corsair-vengeance-32-gb--2x16gb--ddr5-6400",
+    "category": "memory",
+    "name": "Corsair Vengeance 32 GB (2x16GB) DDR5-6400",
+    "brand": "Corsair",
+    "price": 14990,
+    "image": "/images/components/ram.png",
+    "rating": 4.713917466120926,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "32 GB (2 x 16 GB)",
+      "speed": "6400 MHz",
+      "latency": "CL32",
+      "voltage": "1.35V",
+      "rgb": false,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "ram-g-skill-trident-z5-rgb-32-gb--2x16gb--ddr5-6400",
+    "category": "memory",
+    "name": "G.Skill Trident Z5 RGB 32 GB (2x16GB) DDR5-6400",
+    "brand": "G.Skill",
+    "price": 17990,
+    "image": "/images/components/ram.png",
+    "rating": 4.981365076161269,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "32 GB (2 x 16 GB)",
+      "speed": "6400 MHz",
+      "latency": "CL32",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "ram-g-skill-trident-z5-32-gb--2x16gb--ddr5-6400",
+    "category": "memory",
+    "name": "G.Skill Trident Z5 32 GB (2x16GB) DDR5-6400",
+    "brand": "G.Skill",
+    "price": 15990,
+    "image": "/images/components/ram.png",
+    "rating": 4.940575033236839,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "32 GB (2 x 16 GB)",
+      "speed": "6400 MHz",
+      "latency": "CL32",
+      "voltage": "1.35V",
+      "rgb": false,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "ram-kingston-fury-beast-rgb-32-gb--2x16gb--ddr5-6400",
+    "category": "memory",
+    "name": "Kingston FURY Beast RGB 32 GB (2x16GB) DDR5-6400",
+    "brand": "Kingston",
+    "price": 15990,
+    "image": "/images/components/ram.png",
+    "rating": 4.679713698387687,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "32 GB (2 x 16 GB)",
+      "speed": "6400 MHz",
+      "latency": "CL32",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "ram-kingston-fury-beast-32-gb--2x16gb--ddr5-6400",
+    "category": "memory",
+    "name": "Kingston FURY Beast 32 GB (2x16GB) DDR5-6400",
+    "brand": "Kingston",
+    "price": 12990,
+    "image": "/images/components/ram.png",
+    "rating": 4.793356927780544,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "32 GB (2 x 16 GB)",
+      "speed": "6400 MHz",
+      "latency": "CL32",
+      "voltage": "1.35V",
+      "rgb": false,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "ram-crucial-pro-rgb-32-gb--2x16gb--ddr5-6400",
+    "category": "memory",
+    "name": "Crucial Pro RGB 32 GB (2x16GB) DDR5-6400",
+    "brand": "Crucial",
+    "price": 15990,
+    "image": "/images/components/ram.png",
+    "rating": 4.91719773139491,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "32 GB (2 x 16 GB)",
+      "speed": "6400 MHz",
+      "latency": "CL32",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "ram-crucial-pro-32-gb--2x16gb--ddr5-6400",
+    "category": "memory",
+    "name": "Crucial Pro 32 GB (2x16GB) DDR5-6400",
+    "brand": "Crucial",
+    "price": 12990,
+    "image": "/images/components/ram.png",
+    "rating": 4.5493355096816765,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "32 GB (2 x 16 GB)",
+      "speed": "6400 MHz",
+      "latency": "CL32",
+      "voltage": "1.35V",
+      "rgb": false,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "ram-teamgroup-t-force-delta-rgb-32-gb--2x16gb--ddr5-6400",
+    "category": "memory",
+    "name": "TeamGroup T-Force Delta RGB 32 GB (2x16GB) DDR5-6400",
+    "brand": "TeamGroup",
+    "price": 15990,
+    "image": "/images/components/ram.png",
+    "rating": 4.532520988187782,
+    "availability": "Low Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "32 GB (2 x 16 GB)",
+      "speed": "6400 MHz",
+      "latency": "CL32",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "ram-corsair-vengeance-rgb-32-gb--1x32gb--ddr5-6000",
+    "category": "memory",
+    "name": "Corsair Vengeance RGB 32 GB (1x32GB) DDR5-6000",
+    "brand": "Corsair",
+    "price": 12990,
+    "image": "/images/components/ram.png",
+    "rating": 4.672156236569138,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "32 GB (1 x 32 GB)",
+      "speed": "6000 MHz",
+      "latency": "CL30",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 5
+    }
+  },
+  {
+    "id": "ram-corsair-vengeance-32-gb--1x32gb--ddr5-6000",
+    "category": "memory",
+    "name": "Corsair Vengeance 32 GB (1x32GB) DDR5-6000",
+    "brand": "Corsair",
+    "price": 11990,
+    "image": "/images/components/ram.png",
+    "rating": 4.879895997229815,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "32 GB (1 x 32 GB)",
+      "speed": "6000 MHz",
+      "latency": "CL30",
+      "voltage": "1.35V",
+      "rgb": false,
+      "tdp": 5
+    }
+  },
+  {
+    "id": "ram-g-skill-trident-z5-rgb-32-gb--1x32gb--ddr5-6000",
+    "category": "memory",
+    "name": "G.Skill Trident Z5 RGB 32 GB (1x32GB) DDR5-6000",
+    "brand": "G.Skill",
+    "price": 14990,
+    "image": "/images/components/ram.png",
+    "rating": 4.772252390268505,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "32 GB (1 x 32 GB)",
+      "speed": "6000 MHz",
+      "latency": "CL30",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 5
+    }
+  },
+  {
+    "id": "ram-g-skill-trident-z5-32-gb--1x32gb--ddr5-6000",
+    "category": "memory",
+    "name": "G.Skill Trident Z5 32 GB (1x32GB) DDR5-6000",
+    "brand": "G.Skill",
+    "price": 12990,
+    "image": "/images/components/ram.png",
+    "rating": 4.726076572801521,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "32 GB (1 x 32 GB)",
+      "speed": "6000 MHz",
+      "latency": "CL30",
+      "voltage": "1.35V",
+      "rgb": false,
+      "tdp": 5
+    }
+  },
+  {
+    "id": "ram-kingston-fury-beast-rgb-32-gb--1x32gb--ddr5-6000",
+    "category": "memory",
+    "name": "Kingston FURY Beast RGB 32 GB (1x32GB) DDR5-6000",
+    "brand": "Kingston",
+    "price": 11990,
+    "image": "/images/components/ram.png",
+    "rating": 4.761411631098387,
+    "availability": "Low Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "32 GB (1 x 32 GB)",
+      "speed": "6000 MHz",
+      "latency": "CL30",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 5
+    }
+  },
+  {
+    "id": "ram-kingston-fury-beast-32-gb--1x32gb--ddr5-6000",
+    "category": "memory",
+    "name": "Kingston FURY Beast 32 GB (1x32GB) DDR5-6000",
+    "brand": "Kingston",
+    "price": 10990,
+    "image": "/images/components/ram.png",
+    "rating": 4.760184949483104,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "32 GB (1 x 32 GB)",
+      "speed": "6000 MHz",
+      "latency": "CL30",
+      "voltage": "1.35V",
+      "rgb": false,
+      "tdp": 5
+    }
+  },
+  {
+    "id": "ram-crucial-pro-rgb-32-gb--1x32gb--ddr5-6000",
+    "category": "memory",
+    "name": "Crucial Pro RGB 32 GB (1x32GB) DDR5-6000",
+    "brand": "Crucial",
+    "price": 11990,
+    "image": "/images/components/ram.png",
+    "rating": 4.592448078787878,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "32 GB (1 x 32 GB)",
+      "speed": "6000 MHz",
+      "latency": "CL30",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 5
+    }
+  },
+  {
+    "id": "ram-crucial-pro-32-gb--1x32gb--ddr5-6000",
+    "category": "memory",
+    "name": "Crucial Pro 32 GB (1x32GB) DDR5-6000",
+    "brand": "Crucial",
+    "price": 10990,
+    "image": "/images/components/ram.png",
+    "rating": 4.82515627413419,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "32 GB (1 x 32 GB)",
+      "speed": "6000 MHz",
+      "latency": "CL30",
+      "voltage": "1.35V",
+      "rgb": false,
+      "tdp": 5
+    }
+  },
+  {
+    "id": "ram-teamgroup-t-force-delta-rgb-32-gb--1x32gb--ddr5-6000",
+    "category": "memory",
+    "name": "TeamGroup T-Force Delta RGB 32 GB (1x32GB) DDR5-6000",
+    "brand": "TeamGroup",
+    "price": 11990,
+    "image": "/images/components/ram.png",
+    "rating": 4.919919180553223,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "32 GB (1 x 32 GB)",
+      "speed": "6000 MHz",
+      "latency": "CL30",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 5
+    }
+  },
+  {
+    "id": "ram-corsair-vengeance-rgb-64-gb--2x32gb--ddr5-6000",
+    "category": "memory",
+    "name": "Corsair Vengeance RGB 64 GB (2x32GB) DDR5-6000",
+    "brand": "Corsair",
+    "price": 25990,
+    "image": "/images/components/ram.png",
+    "rating": 4.983776743367504,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "64 GB (2 x 32 GB)",
+      "speed": "6000 MHz",
+      "latency": "CL30",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "ram-corsair-vengeance-64-gb--2x32gb--ddr5-6000",
+    "category": "memory",
+    "name": "Corsair Vengeance 64 GB (2x32GB) DDR5-6000",
+    "brand": "Corsair",
+    "price": 23990,
+    "image": "/images/components/ram.png",
+    "rating": 4.623783680079893,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "64 GB (2 x 32 GB)",
+      "speed": "6000 MHz",
+      "latency": "CL30",
+      "voltage": "1.35V",
+      "rgb": false,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "ram-g-skill-trident-z5-rgb-64-gb--2x32gb--ddr5-6000",
+    "category": "memory",
+    "name": "G.Skill Trident Z5 RGB 64 GB (2x32GB) DDR5-6000",
+    "brand": "G.Skill",
+    "price": 27990,
+    "image": "/images/components/ram.png",
+    "rating": 4.515304554846718,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "64 GB (2 x 32 GB)",
+      "speed": "6000 MHz",
+      "latency": "CL30",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "ram-g-skill-trident-z5-64-gb--2x32gb--ddr5-6000",
+    "category": "memory",
+    "name": "G.Skill Trident Z5 64 GB (2x32GB) DDR5-6000",
+    "brand": "G.Skill",
+    "price": 24990,
+    "image": "/images/components/ram.png",
+    "rating": 4.844044617108091,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "64 GB (2 x 32 GB)",
+      "speed": "6000 MHz",
+      "latency": "CL30",
+      "voltage": "1.35V",
+      "rgb": false,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "ram-kingston-fury-beast-rgb-64-gb--2x32gb--ddr5-6000",
+    "category": "memory",
+    "name": "Kingston FURY Beast RGB 64 GB (2x32GB) DDR5-6000",
+    "brand": "Kingston",
+    "price": 23990,
+    "image": "/images/components/ram.png",
+    "rating": 4.912935685539407,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "64 GB (2 x 32 GB)",
+      "speed": "6000 MHz",
+      "latency": "CL30",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "ram-kingston-fury-beast-64-gb--2x32gb--ddr5-6000",
+    "category": "memory",
+    "name": "Kingston FURY Beast 64 GB (2x32GB) DDR5-6000",
+    "brand": "Kingston",
+    "price": 21990,
+    "image": "/images/components/ram.png",
+    "rating": 4.862839584713165,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "64 GB (2 x 32 GB)",
+      "speed": "6000 MHz",
+      "latency": "CL30",
+      "voltage": "1.35V",
+      "rgb": false,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "ram-crucial-pro-rgb-64-gb--2x32gb--ddr5-6000",
+    "category": "memory",
+    "name": "Crucial Pro RGB 64 GB (2x32GB) DDR5-6000",
+    "brand": "Crucial",
+    "price": 23990,
+    "image": "/images/components/ram.png",
+    "rating": 4.8694387009546185,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "64 GB (2 x 32 GB)",
+      "speed": "6000 MHz",
+      "latency": "CL30",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "ram-crucial-pro-64-gb--2x32gb--ddr5-6000",
+    "category": "memory",
+    "name": "Crucial Pro 64 GB (2x32GB) DDR5-6000",
+    "brand": "Crucial",
+    "price": 21990,
+    "image": "/images/components/ram.png",
+    "rating": 4.519950455691999,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "64 GB (2 x 32 GB)",
+      "speed": "6000 MHz",
+      "latency": "CL30",
+      "voltage": "1.35V",
+      "rgb": false,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "ram-teamgroup-t-force-delta-rgb-64-gb--2x32gb--ddr5-6000",
+    "category": "memory",
+    "name": "TeamGroup T-Force Delta RGB 64 GB (2x32GB) DDR5-6000",
+    "brand": "TeamGroup",
+    "price": 23990,
+    "image": "/images/components/ram.png",
+    "rating": 4.679320330279584,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "64 GB (2 x 32 GB)",
+      "speed": "6000 MHz",
+      "latency": "CL30",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "ram-corsair-vengeance-rgb-64-gb--2x32gb--ddr5-6400",
+    "category": "memory",
+    "name": "Corsair Vengeance RGB 64 GB (2x32GB) DDR5-6400",
+    "brand": "Corsair",
+    "price": 29990,
+    "image": "/images/components/ram.png",
+    "rating": 4.645925803198031,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "64 GB (2 x 32 GB)",
+      "speed": "6400 MHz",
+      "latency": "CL32",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "ram-corsair-vengeance-64-gb--2x32gb--ddr5-6400",
+    "category": "memory",
+    "name": "Corsair Vengeance 64 GB (2x32GB) DDR5-6400",
+    "brand": "Corsair",
+    "price": 27990,
+    "image": "/images/components/ram.png",
+    "rating": 4.989959341622237,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "64 GB (2 x 32 GB)",
+      "speed": "6400 MHz",
+      "latency": "CL32",
+      "voltage": "1.35V",
+      "rgb": false,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "ram-g-skill-trident-z5-rgb-64-gb--2x32gb--ddr5-6400",
+    "category": "memory",
+    "name": "G.Skill Trident Z5 RGB 64 GB (2x32GB) DDR5-6400",
+    "brand": "G.Skill",
+    "price": 30990,
+    "image": "/images/components/ram.png",
+    "rating": 4.688560173793542,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "64 GB (2 x 32 GB)",
+      "speed": "6400 MHz",
+      "latency": "CL32",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "ram-g-skill-trident-z5-64-gb--2x32gb--ddr5-6400",
+    "category": "memory",
+    "name": "G.Skill Trident Z5 64 GB (2x32GB) DDR5-6400",
+    "brand": "G.Skill",
+    "price": 28990,
+    "image": "/images/components/ram.png",
+    "rating": 4.696299352933192,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "64 GB (2 x 32 GB)",
+      "speed": "6400 MHz",
+      "latency": "CL32",
+      "voltage": "1.35V",
+      "rgb": false,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "ram-kingston-fury-beast-rgb-64-gb--2x32gb--ddr5-6400",
+    "category": "memory",
+    "name": "Kingston FURY Beast RGB 64 GB (2x32GB) DDR5-6400",
+    "brand": "Kingston",
+    "price": 27990,
+    "image": "/images/components/ram.png",
+    "rating": 4.982892456092975,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "64 GB (2 x 32 GB)",
+      "speed": "6400 MHz",
+      "latency": "CL32",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "ram-kingston-fury-beast-64-gb--2x32gb--ddr5-6400",
+    "category": "memory",
+    "name": "Kingston FURY Beast 64 GB (2x32GB) DDR5-6400",
+    "brand": "Kingston",
+    "price": 24990,
+    "image": "/images/components/ram.png",
+    "rating": 4.750838096614277,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "64 GB (2 x 32 GB)",
+      "speed": "6400 MHz",
+      "latency": "CL32",
+      "voltage": "1.35V",
+      "rgb": false,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "ram-crucial-pro-rgb-64-gb--2x32gb--ddr5-6400",
+    "category": "memory",
+    "name": "Crucial Pro RGB 64 GB (2x32GB) DDR5-6400",
+    "brand": "Crucial",
+    "price": 27990,
+    "image": "/images/components/ram.png",
+    "rating": 4.629354291397522,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "64 GB (2 x 32 GB)",
+      "speed": "6400 MHz",
+      "latency": "CL32",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "ram-crucial-pro-64-gb--2x32gb--ddr5-6400",
+    "category": "memory",
+    "name": "Crucial Pro 64 GB (2x32GB) DDR5-6400",
+    "brand": "Crucial",
+    "price": 24990,
+    "image": "/images/components/ram.png",
+    "rating": 4.538102437641042,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "64 GB (2 x 32 GB)",
+      "speed": "6400 MHz",
+      "latency": "CL32",
+      "voltage": "1.35V",
+      "rgb": false,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "ram-teamgroup-t-force-delta-rgb-64-gb--2x32gb--ddr5-6400",
+    "category": "memory",
+    "name": "TeamGroup T-Force Delta RGB 64 GB (2x32GB) DDR5-6400",
+    "brand": "TeamGroup",
+    "price": 27990,
+    "image": "/images/components/ram.png",
+    "rating": 4.649240772948146,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "64 GB (2 x 32 GB)",
+      "speed": "6400 MHz",
+      "latency": "CL32",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 10
+    }
+  },
+  {
+    "id": "ram-corsair-vengeance-rgb-64-gb--4x16gb--ddr5-6000",
+    "category": "memory",
+    "name": "Corsair Vengeance RGB 64 GB (4x16GB) DDR5-6000",
+    "brand": "Corsair",
+    "price": 30990,
+    "image": "/images/components/ram.png",
+    "rating": 4.72883519038563,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "64 GB (4 x 16 GB)",
+      "speed": "6000 MHz",
+      "latency": "CL30",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 20
+    }
+  },
+  {
+    "id": "ram-corsair-vengeance-64-gb--4x16gb--ddr5-6000",
+    "category": "memory",
+    "name": "Corsair Vengeance 64 GB (4x16GB) DDR5-6000",
+    "brand": "Corsair",
+    "price": 25990,
+    "image": "/images/components/ram.png",
+    "rating": 4.625533853839643,
+    "availability": "Low Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "64 GB (4 x 16 GB)",
+      "speed": "6000 MHz",
+      "latency": "CL30",
+      "voltage": "1.35V",
+      "rgb": false,
+      "tdp": 20
+    }
+  },
+  {
+    "id": "ram-g-skill-trident-z5-rgb-64-gb--4x16gb--ddr5-6000",
+    "category": "memory",
+    "name": "G.Skill Trident Z5 RGB 64 GB (4x16GB) DDR5-6000",
+    "brand": "G.Skill",
+    "price": 31990,
+    "image": "/images/components/ram.png",
+    "rating": 4.550203758796341,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "64 GB (4 x 16 GB)",
+      "speed": "6000 MHz",
+      "latency": "CL30",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 20
+    }
+  },
+  {
+    "id": "ram-g-skill-trident-z5-64-gb--4x16gb--ddr5-6000",
+    "category": "memory",
+    "name": "G.Skill Trident Z5 64 GB (4x16GB) DDR5-6000",
+    "brand": "G.Skill",
+    "price": 27990,
+    "image": "/images/components/ram.png",
+    "rating": 4.9007774259014845,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "64 GB (4 x 16 GB)",
+      "speed": "6000 MHz",
+      "latency": "CL30",
+      "voltage": "1.35V",
+      "rgb": false,
+      "tdp": 20
+    }
+  },
+  {
+    "id": "ram-kingston-fury-beast-rgb-64-gb--4x16gb--ddr5-6000",
+    "category": "memory",
+    "name": "Kingston FURY Beast RGB 64 GB (4x16GB) DDR5-6000",
+    "brand": "Kingston",
+    "price": 27990,
+    "image": "/images/components/ram.png",
+    "rating": 4.836331058907147,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "64 GB (4 x 16 GB)",
+      "speed": "6000 MHz",
+      "latency": "CL30",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 20
+    }
+  },
+  {
+    "id": "ram-kingston-fury-beast-64-gb--4x16gb--ddr5-6000",
+    "category": "memory",
+    "name": "Kingston FURY Beast 64 GB (4x16GB) DDR5-6000",
+    "brand": "Kingston",
+    "price": 23990,
+    "image": "/images/components/ram.png",
+    "rating": 4.508327716814496,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "64 GB (4 x 16 GB)",
+      "speed": "6000 MHz",
+      "latency": "CL30",
+      "voltage": "1.35V",
+      "rgb": false,
+      "tdp": 20
+    }
+  },
+  {
+    "id": "ram-crucial-pro-rgb-64-gb--4x16gb--ddr5-6000",
+    "category": "memory",
+    "name": "Crucial Pro RGB 64 GB (4x16GB) DDR5-6000",
+    "brand": "Crucial",
+    "price": 27990,
+    "image": "/images/components/ram.png",
+    "rating": 4.772378911281251,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "64 GB (4 x 16 GB)",
+      "speed": "6000 MHz",
+      "latency": "CL30",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 20
+    }
+  },
+  {
+    "id": "ram-crucial-pro-64-gb--4x16gb--ddr5-6000",
+    "category": "memory",
+    "name": "Crucial Pro 64 GB (4x16GB) DDR5-6000",
+    "brand": "Crucial",
+    "price": 23990,
+    "image": "/images/components/ram.png",
+    "rating": 4.501638157190359,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "64 GB (4 x 16 GB)",
+      "speed": "6000 MHz",
+      "latency": "CL30",
+      "voltage": "1.35V",
+      "rgb": false,
+      "tdp": 20
+    }
+  },
+  {
+    "id": "ram-teamgroup-t-force-delta-rgb-64-gb--4x16gb--ddr5-6000",
+    "category": "memory",
+    "name": "TeamGroup T-Force Delta RGB 64 GB (4x16GB) DDR5-6000",
+    "brand": "TeamGroup",
+    "price": 27990,
+    "image": "/images/components/ram.png",
+    "rating": 4.879788748386778,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "64 GB (4 x 16 GB)",
+      "speed": "6000 MHz",
+      "latency": "CL30",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 20
+    }
+  },
+  {
+    "id": "ram-corsair-vengeance-rgb-128-gb--4x32gb--ddr5-6000",
+    "category": "memory",
+    "name": "Corsair Vengeance RGB 128 GB (4x32GB) DDR5-6000",
+    "brand": "Corsair",
+    "price": 51990,
+    "image": "/images/components/ram.png",
+    "rating": 4.663680911467304,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "128 GB (4 x 32 GB)",
+      "speed": "6000 MHz",
+      "latency": "CL30",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 20
+    }
+  },
+  {
+    "id": "ram-corsair-vengeance-128-gb--4x32gb--ddr5-6000",
+    "category": "memory",
+    "name": "Corsair Vengeance 128 GB (4x32GB) DDR5-6000",
+    "brand": "Corsair",
+    "price": 47990,
+    "image": "/images/components/ram.png",
+    "rating": 4.588915588144432,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "128 GB (4 x 32 GB)",
+      "speed": "6000 MHz",
+      "latency": "CL30",
+      "voltage": "1.35V",
+      "rgb": false,
+      "tdp": 20
+    }
+  },
+  {
+    "id": "ram-g-skill-trident-z5-rgb-128-gb--4x32gb--ddr5-6000",
+    "category": "memory",
+    "name": "G.Skill Trident Z5 RGB 128 GB (4x32GB) DDR5-6000",
+    "brand": "G.Skill",
+    "price": 53990,
+    "image": "/images/components/ram.png",
+    "rating": 4.670178121893911,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "128 GB (4 x 32 GB)",
+      "speed": "6000 MHz",
+      "latency": "CL30",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 20
+    }
+  },
+  {
+    "id": "ram-g-skill-trident-z5-128-gb--4x32gb--ddr5-6000",
+    "category": "memory",
+    "name": "G.Skill Trident Z5 128 GB (4x32GB) DDR5-6000",
+    "brand": "G.Skill",
+    "price": 49990,
+    "image": "/images/components/ram.png",
+    "rating": 4.914782342430693,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "128 GB (4 x 32 GB)",
+      "speed": "6000 MHz",
+      "latency": "CL30",
+      "voltage": "1.35V",
+      "rgb": false,
+      "tdp": 20
+    }
+  },
+  {
+    "id": "ram-kingston-fury-beast-rgb-128-gb--4x32gb--ddr5-6000",
+    "category": "memory",
+    "name": "Kingston FURY Beast RGB 128 GB (4x32GB) DDR5-6000",
+    "brand": "Kingston",
+    "price": 47990,
+    "image": "/images/components/ram.png",
+    "rating": 4.518283672260462,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "128 GB (4 x 32 GB)",
+      "speed": "6000 MHz",
+      "latency": "CL30",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 20
+    }
+  },
+  {
+    "id": "ram-kingston-fury-beast-128-gb--4x32gb--ddr5-6000",
+    "category": "memory",
+    "name": "Kingston FURY Beast 128 GB (4x32GB) DDR5-6000",
+    "brand": "Kingston",
+    "price": 42990,
+    "image": "/images/components/ram.png",
+    "rating": 4.985657966189574,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "128 GB (4 x 32 GB)",
+      "speed": "6000 MHz",
+      "latency": "CL30",
+      "voltage": "1.35V",
+      "rgb": false,
+      "tdp": 20
+    }
+  },
+  {
+    "id": "ram-crucial-pro-rgb-128-gb--4x32gb--ddr5-6000",
+    "category": "memory",
+    "name": "Crucial Pro RGB 128 GB (4x32GB) DDR5-6000",
+    "brand": "Crucial",
+    "price": 47990,
+    "image": "/images/components/ram.png",
+    "rating": 4.962704953733207,
+    "availability": "Low Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "128 GB (4 x 32 GB)",
+      "speed": "6000 MHz",
+      "latency": "CL30",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 20
+    }
+  },
+  {
+    "id": "ram-crucial-pro-128-gb--4x32gb--ddr5-6000",
+    "category": "memory",
+    "name": "Crucial Pro 128 GB (4x32GB) DDR5-6000",
+    "brand": "Crucial",
+    "price": 42990,
+    "image": "/images/components/ram.png",
+    "rating": 4.73440013008815,
+    "availability": "In Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "128 GB (4 x 32 GB)",
+      "speed": "6000 MHz",
+      "latency": "CL30",
+      "voltage": "1.35V",
+      "rgb": false,
+      "tdp": 20
+    }
+  },
+  {
+    "id": "ram-teamgroup-t-force-delta-rgb-128-gb--4x32gb--ddr5-6000",
+    "category": "memory",
+    "name": "TeamGroup T-Force Delta RGB 128 GB (4x32GB) DDR5-6000",
+    "brand": "TeamGroup",
+    "price": 47990,
+    "image": "/images/components/ram.png",
+    "rating": 4.884537407353983,
+    "availability": "Low Stock",
+    "specs": {
+      "type": "memory",
+      "memoryType": "DDR5",
+      "capacity": "128 GB (4 x 32 GB)",
+      "speed": "6000 MHz",
+      "latency": "CL30",
+      "voltage": "1.35V",
+      "rgb": true,
+      "tdp": 20
+    }
+  }
+]

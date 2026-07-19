@@ -35,7 +35,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en" className={`dark ${display.variable} ${body.variable} ${mono.variable}`}>
-      <body className="min-h-screen bg-background text-foreground antialiased cursor-default">
+      <body className="min-h-screen bg-background text-foreground antialiased cursor-none">
         <CustomCursor />
         <Preloader />
         <AuthSessionProvider>{children}</AuthSessionProvider>

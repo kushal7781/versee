@@ -1,0 +1,3252 @@
+[
+  {
+    "id": "gpu-founders-edition-rtx-2060",
+    "category": "gpu",
+    "name": "NVIDIA Founders Edition GeForce RTX 2060",
+    "brand": "NVIDIA",
+    "price": 24990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.5,
+    "availability": "Low Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 2060",
+      "vram": "6 GB",
+      "memoryType": "GDDR6",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 280,
+      "tdp": 160,
+      "slots": 2,
+      "pcie": "PCIe 3.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-asus-rog-strix-rtx-2060",
+    "category": "gpu",
+    "name": "ASUS ROG Strix GeForce RTX 2060",
+    "brand": "ASUS",
+    "price": 28990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.429882548401097,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 2060",
+      "vram": "6 GB",
+      "memoryType": "GDDR6",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 349,
+      "tdp": 160,
+      "slots": 2,
+      "pcie": "PCIe 3.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-msi-gaming-x-trio-rtx-2060",
+    "category": "gpu",
+    "name": "MSI Gaming X Trio GeForce RTX 2060",
+    "brand": "MSI",
+    "price": 24990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.593679273780197,
+    "availability": "Low Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 2060",
+      "vram": "6 GB",
+      "memoryType": "GDDR6",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 316,
+      "tdp": 160,
+      "slots": 2,
+      "pcie": "PCIe 3.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-gigabyte-aorus-rtx-2060",
+    "category": "gpu",
+    "name": "Gigabyte AORUS GeForce RTX 2060",
+    "brand": "Gigabyte",
+    "price": 27990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.54132368000724,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 2060",
+      "vram": "6 GB",
+      "memoryType": "GDDR6",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 307,
+      "tdp": 160,
+      "slots": 3,
+      "pcie": "PCIe 3.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-evga-ftw3-rtx-2060",
+    "category": "gpu",
+    "name": "EVGA FTW3 GeForce RTX 2060",
+    "brand": "EVGA",
+    "price": 27990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.428934757349402,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 2060",
+      "vram": "6 GB",
+      "memoryType": "GDDR6",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 348,
+      "tdp": 160,
+      "slots": 2,
+      "pcie": "PCIe 3.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-founders-edition-rtx-2060-super",
+    "category": "gpu",
+    "name": "NVIDIA Founders Edition GeForce RTX 2060 Super",
+    "brand": "NVIDIA",
+    "price": 28990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.6,
+    "availability": "Low Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 2060 Super",
+      "vram": "8 GB",
+      "memoryType": "GDDR6",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 280,
+      "tdp": 175,
+      "slots": 2,
+      "pcie": "PCIe 3.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-asus-rog-strix-rtx-2060-super",
+    "category": "gpu",
+    "name": "ASUS ROG Strix GeForce RTX 2060 Super",
+    "brand": "ASUS",
+    "price": 33990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.684925209917773,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 2060 Super",
+      "vram": "8 GB",
+      "memoryType": "GDDR6",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 301,
+      "tdp": 175,
+      "slots": 2,
+      "pcie": "PCIe 3.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-msi-gaming-x-trio-rtx-2060-super",
+    "category": "gpu",
+    "name": "MSI Gaming X Trio GeForce RTX 2060 Super",
+    "brand": "MSI",
+    "price": 28990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.574019811594142,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 2060 Super",
+      "vram": "8 GB",
+      "memoryType": "GDDR6",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 309,
+      "tdp": 175,
+      "slots": 2,
+      "pcie": "PCIe 3.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-gigabyte-aorus-rtx-2060-super",
+    "category": "gpu",
+    "name": "Gigabyte AORUS GeForce RTX 2060 Super",
+    "brand": "Gigabyte",
+    "price": 32990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.648848365308763,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 2060 Super",
+      "vram": "8 GB",
+      "memoryType": "GDDR6",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 331,
+      "tdp": 175,
+      "slots": 3,
+      "pcie": "PCIe 3.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-evga-ftw3-rtx-2060-super",
+    "category": "gpu",
+    "name": "EVGA FTW3 GeForce RTX 2060 Super",
+    "brand": "EVGA",
+    "price": 32990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.54162438024774,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 2060 Super",
+      "vram": "8 GB",
+      "memoryType": "GDDR6",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 333,
+      "tdp": 175,
+      "slots": 2,
+      "pcie": "PCIe 3.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-founders-edition-rtx-2070",
+    "category": "gpu",
+    "name": "NVIDIA Founders Edition GeForce RTX 2070",
+    "brand": "NVIDIA",
+    "price": 34990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.6,
+    "availability": "Low Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 2070",
+      "vram": "8 GB",
+      "memoryType": "GDDR6",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 280,
+      "tdp": 175,
+      "slots": 2,
+      "pcie": "PCIe 3.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-asus-rog-strix-rtx-2070",
+    "category": "gpu",
+    "name": "ASUS ROG Strix GeForce RTX 2070",
+    "brand": "ASUS",
+    "price": 41990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.684817653240486,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 2070",
+      "vram": "8 GB",
+      "memoryType": "GDDR6",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 336,
+      "tdp": 175,
+      "slots": 2,
+      "pcie": "PCIe 3.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-msi-gaming-x-trio-rtx-2070",
+    "category": "gpu",
+    "name": "MSI Gaming X Trio GeForce RTX 2070",
+    "brand": "MSI",
+    "price": 34990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.668009946904465,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 2070",
+      "vram": "8 GB",
+      "memoryType": "GDDR6",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 303,
+      "tdp": 175,
+      "slots": 2,
+      "pcie": "PCIe 3.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-gigabyte-aorus-rtx-2070",
+    "category": "gpu",
+    "name": "Gigabyte AORUS GeForce RTX 2070",
+    "brand": "Gigabyte",
+    "price": 38990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.535257855909284,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 2070",
+      "vram": "8 GB",
+      "memoryType": "GDDR6",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 317,
+      "tdp": 175,
+      "slots": 3,
+      "pcie": "PCIe 3.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-zotac-amp-extreme-rtx-2070",
+    "category": "gpu",
+    "name": "ZOTAC AMP Extreme GeForce RTX 2070",
+    "brand": "ZOTAC",
+    "price": 34990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.56838549969997,
+    "availability": "Low Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 2070",
+      "vram": "8 GB",
+      "memoryType": "GDDR6",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 343,
+      "tdp": 175,
+      "slots": 2,
+      "pcie": "PCIe 3.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-evga-ftw3-rtx-2070",
+    "category": "gpu",
+    "name": "EVGA FTW3 GeForce RTX 2070",
+    "brand": "EVGA",
+    "price": 38990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.60278714498555,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 2070",
+      "vram": "8 GB",
+      "memoryType": "GDDR6",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 310,
+      "tdp": 175,
+      "slots": 2,
+      "pcie": "PCIe 3.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-founders-edition-rtx-2070-super",
+    "category": "gpu",
+    "name": "NVIDIA Founders Edition GeForce RTX 2070 Super",
+    "brand": "NVIDIA",
+    "price": 42990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.7,
+    "availability": "Low Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 2070 Super",
+      "vram": "8 GB",
+      "memoryType": "GDDR6",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 280,
+      "tdp": 215,
+      "slots": 2,
+      "pcie": "PCIe 3.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-asus-rog-strix-rtx-2070-super",
+    "category": "gpu",
+    "name": "ASUS ROG Strix GeForce RTX 2070 Super",
+    "brand": "ASUS",
+    "price": 49990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.621971788993019,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 2070 Super",
+      "vram": "8 GB",
+      "memoryType": "GDDR6",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 312,
+      "tdp": 215,
+      "slots": 2,
+      "pcie": "PCIe 3.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-msi-gaming-x-trio-rtx-2070-super",
+    "category": "gpu",
+    "name": "MSI Gaming X Trio GeForce RTX 2070 Super",
+    "brand": "MSI",
+    "price": 42990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.665712884487574,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 2070 Super",
+      "vram": "8 GB",
+      "memoryType": "GDDR6",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 303,
+      "tdp": 215,
+      "slots": 2,
+      "pcie": "PCIe 3.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-gigabyte-aorus-rtx-2070-super",
+    "category": "gpu",
+    "name": "Gigabyte AORUS GeForce RTX 2070 Super",
+    "brand": "Gigabyte",
+    "price": 47990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.784355999577653,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 2070 Super",
+      "vram": "8 GB",
+      "memoryType": "GDDR6",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 345,
+      "tdp": 215,
+      "slots": 3,
+      "pcie": "PCIe 3.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-zotac-amp-extreme-rtx-2070-super",
+    "category": "gpu",
+    "name": "ZOTAC AMP Extreme GeForce RTX 2070 Super",
+    "brand": "ZOTAC",
+    "price": 42990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.617590649201351,
+    "availability": "Low Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 2070 Super",
+      "vram": "8 GB",
+      "memoryType": "GDDR6",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 328,
+      "tdp": 215,
+      "slots": 2,
+      "pcie": "PCIe 3.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-evga-ftw3-rtx-2070-super",
+    "category": "gpu",
+    "name": "EVGA FTW3 GeForce RTX 2070 Super",
+    "brand": "EVGA",
+    "price": 47990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.611263960443599,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 2070 Super",
+      "vram": "8 GB",
+      "memoryType": "GDDR6",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 346,
+      "tdp": 215,
+      "slots": 2,
+      "pcie": "PCIe 3.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-founders-edition-rtx-2080",
+    "category": "gpu",
+    "name": "NVIDIA Founders Edition GeForce RTX 2080",
+    "brand": "NVIDIA",
+    "price": 53990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.7,
+    "availability": "Low Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 2080",
+      "vram": "8 GB",
+      "memoryType": "GDDR6",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 280,
+      "tdp": 215,
+      "slots": 2,
+      "pcie": "PCIe 3.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-asus-rog-strix-rtx-2080",
+    "category": "gpu",
+    "name": "ASUS ROG Strix GeForce RTX 2080",
+    "brand": "ASUS",
+    "price": 61990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.6363586329936455,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 2080",
+      "vram": "8 GB",
+      "memoryType": "GDDR6",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 315,
+      "tdp": 215,
+      "slots": 2,
+      "pcie": "PCIe 3.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-msi-gaming-x-trio-rtx-2080",
+    "category": "gpu",
+    "name": "MSI Gaming X Trio GeForce RTX 2080",
+    "brand": "MSI",
+    "price": 53990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.766862822257531,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 2080",
+      "vram": "8 GB",
+      "memoryType": "GDDR6",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 300,
+      "tdp": 215,
+      "slots": 2,
+      "pcie": "PCIe 3.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-gigabyte-aorus-rtx-2080",
+    "category": "gpu",
+    "name": "Gigabyte AORUS GeForce RTX 2080",
+    "brand": "Gigabyte",
+    "price": 58990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.728218159203631,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 2080",
+      "vram": "8 GB",
+      "memoryType": "GDDR6",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 304,
+      "tdp": 215,
+      "slots": 3,
+      "pcie": "PCIe 3.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-zotac-amp-extreme-rtx-2080",
+    "category": "gpu",
+    "name": "ZOTAC AMP Extreme GeForce RTX 2080",
+    "brand": "ZOTAC",
+    "price": 53990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.6883979506964595,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 2080",
+      "vram": "8 GB",
+      "memoryType": "GDDR6",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 325,
+      "tdp": 215,
+      "slots": 2,
+      "pcie": "PCIe 3.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-evga-ftw3-rtx-2080",
+    "category": "gpu",
+    "name": "EVGA FTW3 GeForce RTX 2080",
+    "brand": "EVGA",
+    "price": 58990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.682137647400044,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 2080",
+      "vram": "8 GB",
+      "memoryType": "GDDR6",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 311,
+      "tdp": 215,
+      "slots": 2,
+      "pcie": "PCIe 3.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-founders-edition-rtx-2080-super",
+    "category": "gpu",
+    "name": "NVIDIA Founders Edition GeForce RTX 2080 Super",
+    "brand": "NVIDIA",
+    "price": 58990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.8,
+    "availability": "Low Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 2080 Super",
+      "vram": "8 GB",
+      "memoryType": "GDDR6",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 280,
+      "tdp": 250,
+      "slots": 2,
+      "pcie": "PCIe 3.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-asus-rog-strix-rtx-2080-super",
+    "category": "gpu",
+    "name": "ASUS ROG Strix GeForce RTX 2080 Super",
+    "brand": "ASUS",
+    "price": 67990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.819764450163004,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 2080 Super",
+      "vram": "8 GB",
+      "memoryType": "GDDR6",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 332,
+      "tdp": 250,
+      "slots": 2,
+      "pcie": "PCIe 3.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-msi-gaming-x-trio-rtx-2080-super",
+    "category": "gpu",
+    "name": "MSI Gaming X Trio GeForce RTX 2080 Super",
+    "brand": "MSI",
+    "price": 58990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.8410453711058725,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 2080 Super",
+      "vram": "8 GB",
+      "memoryType": "GDDR6",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 344,
+      "tdp": 250,
+      "slots": 2,
+      "pcie": "PCIe 3.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-gigabyte-aorus-rtx-2080-super",
+    "category": "gpu",
+    "name": "Gigabyte AORUS GeForce RTX 2080 Super",
+    "brand": "Gigabyte",
+    "price": 64990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.760210795449207,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 2080 Super",
+      "vram": "8 GB",
+      "memoryType": "GDDR6",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 337,
+      "tdp": 250,
+      "slots": 3,
+      "pcie": "PCIe 3.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-zotac-amp-extreme-rtx-2080-super",
+    "category": "gpu",
+    "name": "ZOTAC AMP Extreme GeForce RTX 2080 Super",
+    "brand": "ZOTAC",
+    "price": 58990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.828218478338519,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 2080 Super",
+      "vram": "8 GB",
+      "memoryType": "GDDR6",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 320,
+      "tdp": 250,
+      "slots": 2,
+      "pcie": "PCIe 3.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-evga-ftw3-rtx-2080-super",
+    "category": "gpu",
+    "name": "EVGA FTW3 GeForce RTX 2080 Super",
+    "brand": "EVGA",
+    "price": 64990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.891137562093048,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 2080 Super",
+      "vram": "8 GB",
+      "memoryType": "GDDR6",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 320,
+      "tdp": 250,
+      "slots": 2,
+      "pcie": "PCIe 3.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-founders-edition-rtx-2080-ti",
+    "category": "gpu",
+    "name": "NVIDIA Founders Edition GeForce RTX 2080 Ti",
+    "brand": "NVIDIA",
+    "price": 74990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.9,
+    "availability": "Low Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 2080 Ti",
+      "vram": "11 GB",
+      "memoryType": "GDDR6",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 280,
+      "tdp": 250,
+      "slots": 2,
+      "pcie": "PCIe 3.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-asus-rog-strix-rtx-2080-ti",
+    "category": "gpu",
+    "name": "ASUS ROG Strix GeForce RTX 2080 Ti",
+    "brand": "ASUS",
+    "price": 86990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.862531680287563,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 2080 Ti",
+      "vram": "11 GB",
+      "memoryType": "GDDR6",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 346,
+      "tdp": 250,
+      "slots": 2,
+      "pcie": "PCIe 3.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-msi-gaming-x-trio-rtx-2080-ti",
+    "category": "gpu",
+    "name": "MSI Gaming X Trio GeForce RTX 2080 Ti",
+    "brand": "MSI",
+    "price": 74990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.801885468455509,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 2080 Ti",
+      "vram": "11 GB",
+      "memoryType": "GDDR6",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 315,
+      "tdp": 250,
+      "slots": 2,
+      "pcie": "PCIe 3.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-gigabyte-aorus-rtx-2080-ti",
+    "category": "gpu",
+    "name": "Gigabyte AORUS GeForce RTX 2080 Ti",
+    "brand": "Gigabyte",
+    "price": 82990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.992860145672593,
+    "availability": "Low Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 2080 Ti",
+      "vram": "11 GB",
+      "memoryType": "GDDR6",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 334,
+      "tdp": 250,
+      "slots": 3,
+      "pcie": "PCIe 3.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-zotac-amp-extreme-rtx-2080-ti",
+    "category": "gpu",
+    "name": "ZOTAC AMP Extreme GeForce RTX 2080 Ti",
+    "brand": "ZOTAC",
+    "price": 74990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.871992372666713,
+    "availability": "Low Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 2080 Ti",
+      "vram": "11 GB",
+      "memoryType": "GDDR6",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 338,
+      "tdp": 250,
+      "slots": 2,
+      "pcie": "PCIe 3.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-evga-ftw3-rtx-2080-ti",
+    "category": "gpu",
+    "name": "EVGA FTW3 GeForce RTX 2080 Ti",
+    "brand": "EVGA",
+    "price": 82990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.864178313519034,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 2080 Ti",
+      "vram": "11 GB",
+      "memoryType": "GDDR6",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 324,
+      "tdp": 250,
+      "slots": 2,
+      "pcie": "PCIe 3.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-asus-rog-strix-rtx-3060",
+    "category": "gpu",
+    "name": "ASUS ROG Strix GeForce RTX 3060",
+    "brand": "ASUS",
+    "price": 41990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.756650774067706,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 3060",
+      "vram": "12 GB",
+      "memoryType": "GDDR6",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 349,
+      "tdp": 170,
+      "slots": 2,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-msi-gaming-x-trio-rtx-3060",
+    "category": "gpu",
+    "name": "MSI Gaming X Trio GeForce RTX 3060",
+    "brand": "MSI",
+    "price": 34990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.837168638228767,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 3060",
+      "vram": "12 GB",
+      "memoryType": "GDDR6",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 316,
+      "tdp": 170,
+      "slots": 2,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-gigabyte-aorus-rtx-3060",
+    "category": "gpu",
+    "name": "Gigabyte AORUS GeForce RTX 3060",
+    "brand": "Gigabyte",
+    "price": 38990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.774849219869018,
+    "availability": "Low Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 3060",
+      "vram": "12 GB",
+      "memoryType": "GDDR6",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 344,
+      "tdp": 170,
+      "slots": 3,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-evga-ftw3-rtx-3060",
+    "category": "gpu",
+    "name": "EVGA FTW3 GeForce RTX 3060",
+    "brand": "EVGA",
+    "price": 38990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.758839742941516,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 3060",
+      "vram": "12 GB",
+      "memoryType": "GDDR6",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 339,
+      "tdp": 170,
+      "slots": 2,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-founders-edition-rtx-3060-ti",
+    "category": "gpu",
+    "name": "NVIDIA Founders Edition GeForce RTX 3060 Ti",
+    "brand": "NVIDIA",
+    "price": 42990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.9,
+    "availability": "Low Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 3060 Ti",
+      "vram": "8 GB",
+      "memoryType": "GDDR6",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 280,
+      "tdp": 200,
+      "slots": 2,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-asus-rog-strix-rtx-3060-ti",
+    "category": "gpu",
+    "name": "ASUS ROG Strix GeForce RTX 3060 Ti",
+    "brand": "ASUS",
+    "price": 49990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.852167996858298,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 3060 Ti",
+      "vram": "8 GB",
+      "memoryType": "GDDR6",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 320,
+      "tdp": 200,
+      "slots": 2,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-msi-gaming-x-trio-rtx-3060-ti",
+    "category": "gpu",
+    "name": "MSI Gaming X Trio GeForce RTX 3060 Ti",
+    "brand": "MSI",
+    "price": 42990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.906946867044542,
+    "availability": "Low Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 3060 Ti",
+      "vram": "8 GB",
+      "memoryType": "GDDR6",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 339,
+      "tdp": 200,
+      "slots": 2,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-gigabyte-aorus-rtx-3060-ti",
+    "category": "gpu",
+    "name": "Gigabyte AORUS GeForce RTX 3060 Ti",
+    "brand": "Gigabyte",
+    "price": 47990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.894392227068665,
+    "availability": "Low Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 3060 Ti",
+      "vram": "8 GB",
+      "memoryType": "GDDR6",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 329,
+      "tdp": 200,
+      "slots": 3,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-evga-ftw3-rtx-3060-ti",
+    "category": "gpu",
+    "name": "EVGA FTW3 GeForce RTX 3060 Ti",
+    "brand": "EVGA",
+    "price": 47990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.9190569445128425,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 3060 Ti",
+      "vram": "8 GB",
+      "memoryType": "GDDR6",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 320,
+      "tdp": 200,
+      "slots": 2,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-founders-edition-rtx-3070",
+    "category": "gpu",
+    "name": "NVIDIA Founders Edition GeForce RTX 3070",
+    "brand": "NVIDIA",
+    "price": 53990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.8,
+    "availability": "Low Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 3070",
+      "vram": "8 GB",
+      "memoryType": "GDDR6",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 280,
+      "tdp": 220,
+      "slots": 2,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-asus-rog-strix-rtx-3070",
+    "category": "gpu",
+    "name": "ASUS ROG Strix GeForce RTX 3070",
+    "brand": "ASUS",
+    "price": 61990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.874733640462345,
+    "availability": "Low Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 3070",
+      "vram": "8 GB",
+      "memoryType": "GDDR6",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 330,
+      "tdp": 220,
+      "slots": 2,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-msi-gaming-x-trio-rtx-3070",
+    "category": "gpu",
+    "name": "MSI Gaming X Trio GeForce RTX 3070",
+    "brand": "MSI",
+    "price": 53990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.8568077822754265,
+    "availability": "Low Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 3070",
+      "vram": "8 GB",
+      "memoryType": "GDDR6",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 348,
+      "tdp": 220,
+      "slots": 2,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-gigabyte-aorus-rtx-3070",
+    "category": "gpu",
+    "name": "Gigabyte AORUS GeForce RTX 3070",
+    "brand": "Gigabyte",
+    "price": 58990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.702351675934319,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 3070",
+      "vram": "8 GB",
+      "memoryType": "GDDR6",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 343,
+      "tdp": 220,
+      "slots": 3,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-zotac-amp-extreme-rtx-3070",
+    "category": "gpu",
+    "name": "ZOTAC AMP Extreme GeForce RTX 3070",
+    "brand": "ZOTAC",
+    "price": 53990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.713241374774913,
+    "availability": "Low Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 3070",
+      "vram": "8 GB",
+      "memoryType": "GDDR6",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 305,
+      "tdp": 220,
+      "slots": 2,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-evga-ftw3-rtx-3070",
+    "category": "gpu",
+    "name": "EVGA FTW3 GeForce RTX 3070",
+    "brand": "EVGA",
+    "price": 58990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.768112239116235,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 3070",
+      "vram": "8 GB",
+      "memoryType": "GDDR6",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 326,
+      "tdp": 220,
+      "slots": 2,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-founders-edition-rtx-3070-ti",
+    "category": "gpu",
+    "name": "NVIDIA Founders Edition GeForce RTX 3070 Ti",
+    "brand": "NVIDIA",
+    "price": 63990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.7,
+    "availability": "Low Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 3070 Ti",
+      "vram": "8 GB",
+      "memoryType": "GDDR6X",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 280,
+      "tdp": 290,
+      "slots": 2,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-asus-rog-strix-rtx-3070-ti",
+    "category": "gpu",
+    "name": "ASUS ROG Strix GeForce RTX 3070 Ti",
+    "brand": "ASUS",
+    "price": 73990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.651095128641928,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 3070 Ti",
+      "vram": "8 GB",
+      "memoryType": "GDDR6X",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 326,
+      "tdp": 290,
+      "slots": 2,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-msi-gaming-x-trio-rtx-3070-ti",
+    "category": "gpu",
+    "name": "MSI Gaming X Trio GeForce RTX 3070 Ti",
+    "brand": "MSI",
+    "price": 63990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.664507477301143,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 3070 Ti",
+      "vram": "8 GB",
+      "memoryType": "GDDR6X",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 328,
+      "tdp": 290,
+      "slots": 2,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-gigabyte-aorus-rtx-3070-ti",
+    "category": "gpu",
+    "name": "Gigabyte AORUS GeForce RTX 3070 Ti",
+    "brand": "Gigabyte",
+    "price": 71990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.610380320094848,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 3070 Ti",
+      "vram": "8 GB",
+      "memoryType": "GDDR6X",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 338,
+      "tdp": 290,
+      "slots": 3,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-zotac-amp-extreme-rtx-3070-ti",
+    "category": "gpu",
+    "name": "ZOTAC AMP Extreme GeForce RTX 3070 Ti",
+    "brand": "ZOTAC",
+    "price": 63990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.603269008527597,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 3070 Ti",
+      "vram": "8 GB",
+      "memoryType": "GDDR6X",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 303,
+      "tdp": 290,
+      "slots": 2,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-evga-ftw3-rtx-3070-ti",
+    "category": "gpu",
+    "name": "EVGA FTW3 GeForce RTX 3070 Ti",
+    "brand": "EVGA",
+    "price": 71990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.685946585165446,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 3070 Ti",
+      "vram": "8 GB",
+      "memoryType": "GDDR6X",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 348,
+      "tdp": 290,
+      "slots": 2,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-founders-edition-rtx-3080",
+    "category": "gpu",
+    "name": "NVIDIA Founders Edition GeForce RTX 3080",
+    "brand": "NVIDIA",
+    "price": 74990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.9,
+    "availability": "Low Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 3080",
+      "vram": "10 GB",
+      "memoryType": "GDDR6X",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 280,
+      "tdp": 320,
+      "slots": 2,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-asus-rog-strix-rtx-3080",
+    "category": "gpu",
+    "name": "ASUS ROG Strix GeForce RTX 3080",
+    "brand": "ASUS",
+    "price": 86990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.929502834084108,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 3080",
+      "vram": "10 GB",
+      "memoryType": "GDDR6X",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 349,
+      "tdp": 320,
+      "slots": 2,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-msi-gaming-x-trio-rtx-3080",
+    "category": "gpu",
+    "name": "MSI Gaming X Trio GeForce RTX 3080",
+    "brand": "MSI",
+    "price": 74990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.91589241312368,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 3080",
+      "vram": "10 GB",
+      "memoryType": "GDDR6X",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 344,
+      "tdp": 320,
+      "slots": 2,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-gigabyte-aorus-rtx-3080",
+    "category": "gpu",
+    "name": "Gigabyte AORUS GeForce RTX 3080",
+    "brand": "Gigabyte",
+    "price": 82990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.85617258054479,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 3080",
+      "vram": "10 GB",
+      "memoryType": "GDDR6X",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 334,
+      "tdp": 320,
+      "slots": 3,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-zotac-amp-extreme-rtx-3080",
+    "category": "gpu",
+    "name": "ZOTAC AMP Extreme GeForce RTX 3080",
+    "brand": "ZOTAC",
+    "price": 74990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.843778011762053,
+    "availability": "Low Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 3080",
+      "vram": "10 GB",
+      "memoryType": "GDDR6X",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 317,
+      "tdp": 320,
+      "slots": 2,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-evga-ftw3-rtx-3080",
+    "category": "gpu",
+    "name": "EVGA FTW3 GeForce RTX 3080",
+    "brand": "EVGA",
+    "price": 82990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.86953330499241,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 3080",
+      "vram": "10 GB",
+      "memoryType": "GDDR6X",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 329,
+      "tdp": 320,
+      "slots": 2,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-founders-edition-rtx-3080-ti",
+    "category": "gpu",
+    "name": "NVIDIA Founders Edition GeForce RTX 3080 Ti",
+    "brand": "NVIDIA",
+    "price": 96990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.8,
+    "availability": "Low Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 3080 Ti",
+      "vram": "12 GB",
+      "memoryType": "GDDR6X",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 280,
+      "tdp": 350,
+      "slots": 2,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-asus-rog-strix-rtx-3080-ti",
+    "category": "gpu",
+    "name": "ASUS ROG Strix GeForce RTX 3080 Ti",
+    "brand": "ASUS",
+    "price": 109990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.837760431717307,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 3080 Ti",
+      "vram": "12 GB",
+      "memoryType": "GDDR6X",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 307,
+      "tdp": 350,
+      "slots": 2,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-msi-gaming-x-trio-rtx-3080-ti",
+    "category": "gpu",
+    "name": "MSI Gaming X Trio GeForce RTX 3080 Ti",
+    "brand": "MSI",
+    "price": 96990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.753648938333866,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 3080 Ti",
+      "vram": "12 GB",
+      "memoryType": "GDDR6X",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 324,
+      "tdp": 350,
+      "slots": 2,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-gigabyte-aorus-rtx-3080-ti",
+    "category": "gpu",
+    "name": "Gigabyte AORUS GeForce RTX 3080 Ti",
+    "brand": "Gigabyte",
+    "price": 106990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.815942410152568,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 3080 Ti",
+      "vram": "12 GB",
+      "memoryType": "GDDR6X",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 300,
+      "tdp": 350,
+      "slots": 3,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-zotac-amp-extreme-rtx-3080-ti",
+    "category": "gpu",
+    "name": "ZOTAC AMP Extreme GeForce RTX 3080 Ti",
+    "brand": "ZOTAC",
+    "price": 96990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.84305238931297,
+    "availability": "Low Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 3080 Ti",
+      "vram": "12 GB",
+      "memoryType": "GDDR6X",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 311,
+      "tdp": 350,
+      "slots": 2,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-evga-ftw3-rtx-3080-ti",
+    "category": "gpu",
+    "name": "EVGA FTW3 GeForce RTX 3080 Ti",
+    "brand": "EVGA",
+    "price": 106990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.8676434720696165,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 3080 Ti",
+      "vram": "12 GB",
+      "memoryType": "GDDR6X",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 327,
+      "tdp": 350,
+      "slots": 2,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-founders-edition-rtx-3090",
+    "category": "gpu",
+    "name": "NVIDIA Founders Edition GeForce RTX 3090",
+    "brand": "NVIDIA",
+    "price": 127990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.9,
+    "availability": "Low Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 3090",
+      "vram": "24 GB",
+      "memoryType": "GDDR6X",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 280,
+      "tdp": 350,
+      "slots": 3,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-asus-rog-strix-rtx-3090",
+    "category": "gpu",
+    "name": "ASUS ROG Strix GeForce RTX 3090",
+    "brand": "ASUS",
+    "price": 147990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.854871751690737,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 3090",
+      "vram": "24 GB",
+      "memoryType": "GDDR6X",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 323,
+      "tdp": 350,
+      "slots": 3,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-msi-gaming-x-trio-rtx-3090",
+    "category": "gpu",
+    "name": "MSI Gaming X Trio GeForce RTX 3090",
+    "brand": "MSI",
+    "price": 127990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.858568675087344,
+    "availability": "Low Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 3090",
+      "vram": "24 GB",
+      "memoryType": "GDDR6X",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 317,
+      "tdp": 350,
+      "slots": 3,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-gigabyte-aorus-rtx-3090",
+    "category": "gpu",
+    "name": "Gigabyte AORUS GeForce RTX 3090",
+    "brand": "Gigabyte",
+    "price": 141990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.856291683573094,
+    "availability": "Low Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 3090",
+      "vram": "24 GB",
+      "memoryType": "GDDR6X",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 343,
+      "tdp": 350,
+      "slots": 3,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-zotac-amp-extreme-rtx-3090",
+    "category": "gpu",
+    "name": "ZOTAC AMP Extreme GeForce RTX 3090",
+    "brand": "ZOTAC",
+    "price": 127990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.8127926747493825,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 3090",
+      "vram": "24 GB",
+      "memoryType": "GDDR6X",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 311,
+      "tdp": 350,
+      "slots": 3,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-evga-ftw3-rtx-3090",
+    "category": "gpu",
+    "name": "EVGA FTW3 GeForce RTX 3090",
+    "brand": "EVGA",
+    "price": 141990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.854322565848086,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 3090",
+      "vram": "24 GB",
+      "memoryType": "GDDR6X",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 346,
+      "tdp": 350,
+      "slots": 3,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-founders-edition-rtx-3090-ti",
+    "category": "gpu",
+    "name": "NVIDIA Founders Edition GeForce RTX 3090 Ti",
+    "brand": "NVIDIA",
+    "price": 159990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.7,
+    "availability": "Low Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 3090 Ti",
+      "vram": "24 GB",
+      "memoryType": "GDDR6X",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 280,
+      "tdp": 450,
+      "slots": 3,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-asus-rog-strix-rtx-3090-ti",
+    "category": "gpu",
+    "name": "ASUS ROG Strix GeForce RTX 3090 Ti",
+    "brand": "ASUS",
+    "price": 183990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.602547276734422,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 3090 Ti",
+      "vram": "24 GB",
+      "memoryType": "GDDR6X",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 337,
+      "tdp": 450,
+      "slots": 3,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-msi-gaming-x-trio-rtx-3090-ti",
+    "category": "gpu",
+    "name": "MSI Gaming X Trio GeForce RTX 3090 Ti",
+    "brand": "MSI",
+    "price": 159990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.74812106814465,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 3090 Ti",
+      "vram": "24 GB",
+      "memoryType": "GDDR6X",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 334,
+      "tdp": 450,
+      "slots": 3,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-gigabyte-aorus-rtx-3090-ti",
+    "category": "gpu",
+    "name": "Gigabyte AORUS GeForce RTX 3090 Ti",
+    "brand": "Gigabyte",
+    "price": 176990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.704945315728326,
+    "availability": "Low Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 3090 Ti",
+      "vram": "24 GB",
+      "memoryType": "GDDR6X",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 333,
+      "tdp": 450,
+      "slots": 3,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-zotac-amp-extreme-rtx-3090-ti",
+    "category": "gpu",
+    "name": "ZOTAC AMP Extreme GeForce RTX 3090 Ti",
+    "brand": "ZOTAC",
+    "price": 159990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.796237620361798,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 3090 Ti",
+      "vram": "24 GB",
+      "memoryType": "GDDR6X",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 306,
+      "tdp": 450,
+      "slots": 3,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-evga-ftw3-rtx-3090-ti",
+    "category": "gpu",
+    "name": "EVGA FTW3 GeForce RTX 3090 Ti",
+    "brand": "EVGA",
+    "price": 176990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.627873246397069,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 3090 Ti",
+      "vram": "24 GB",
+      "memoryType": "GDDR6X",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 340,
+      "tdp": 450,
+      "slots": 3,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-asus-rog-strix-rtx-4060",
+    "category": "gpu",
+    "name": "ASUS ROG Strix GeForce RTX 4060",
+    "brand": "ASUS",
+    "price": 37990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.437378125896051,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 4060",
+      "vram": "8 GB",
+      "memoryType": "GDDR6",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 337,
+      "tdp": 115,
+      "slots": 2,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-msi-gaming-x-trio-rtx-4060",
+    "category": "gpu",
+    "name": "MSI Gaming X Trio GeForce RTX 4060",
+    "brand": "MSI",
+    "price": 32990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.577598351190278,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 4060",
+      "vram": "8 GB",
+      "memoryType": "GDDR6",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 337,
+      "tdp": 115,
+      "slots": 2,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-gigabyte-aorus-rtx-4060",
+    "category": "gpu",
+    "name": "Gigabyte AORUS GeForce RTX 4060",
+    "brand": "Gigabyte",
+    "price": 34990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.501940340277754,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 4060",
+      "vram": "8 GB",
+      "memoryType": "GDDR6",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 310,
+      "tdp": 115,
+      "slots": 3,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-founders-edition-rtx-4060-ti",
+    "category": "gpu",
+    "name": "NVIDIA Founders Edition GeForce RTX 4060 Ti",
+    "brand": "NVIDIA",
+    "price": 42990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.6,
+    "availability": "Low Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 4060 Ti",
+      "vram": "8 GB",
+      "memoryType": "GDDR6",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 280,
+      "tdp": 160,
+      "slots": 2,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-asus-rog-strix-rtx-4060-ti",
+    "category": "gpu",
+    "name": "ASUS ROG Strix GeForce RTX 4060 Ti",
+    "brand": "ASUS",
+    "price": 49990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.5373367294088665,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 4060 Ti",
+      "vram": "8 GB",
+      "memoryType": "GDDR6",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 329,
+      "tdp": 160,
+      "slots": 2,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-msi-gaming-x-trio-rtx-4060-ti",
+    "category": "gpu",
+    "name": "MSI Gaming X Trio GeForce RTX 4060 Ti",
+    "brand": "MSI",
+    "price": 42990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.52682730859324,
+    "availability": "Low Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 4060 Ti",
+      "vram": "8 GB",
+      "memoryType": "GDDR6",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 314,
+      "tdp": 160,
+      "slots": 2,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-gigabyte-aorus-rtx-4060-ti",
+    "category": "gpu",
+    "name": "Gigabyte AORUS GeForce RTX 4060 Ti",
+    "brand": "Gigabyte",
+    "price": 47990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.562250092937568,
+    "availability": "Low Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 4060 Ti",
+      "vram": "8 GB",
+      "memoryType": "GDDR6",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 319,
+      "tdp": 160,
+      "slots": 3,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-founders-edition-rtx-4070",
+    "category": "gpu",
+    "name": "NVIDIA Founders Edition GeForce RTX 4070",
+    "brand": "NVIDIA",
+    "price": 63990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.8,
+    "availability": "Low Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 4070",
+      "vram": "12 GB",
+      "memoryType": "GDDR6X",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 280,
+      "tdp": 200,
+      "slots": 2,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-asus-rog-strix-rtx-4070",
+    "category": "gpu",
+    "name": "ASUS ROG Strix GeForce RTX 4070",
+    "brand": "ASUS",
+    "price": 73990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.729928446478969,
+    "availability": "Low Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 4070",
+      "vram": "12 GB",
+      "memoryType": "GDDR6X",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 344,
+      "tdp": 200,
+      "slots": 2,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-msi-gaming-x-trio-rtx-4070",
+    "category": "gpu",
+    "name": "MSI Gaming X Trio GeForce RTX 4070",
+    "brand": "MSI",
+    "price": 63990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.799574699281617,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 4070",
+      "vram": "12 GB",
+      "memoryType": "GDDR6X",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 343,
+      "tdp": 200,
+      "slots": 2,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-gigabyte-aorus-rtx-4070",
+    "category": "gpu",
+    "name": "Gigabyte AORUS GeForce RTX 4070",
+    "brand": "Gigabyte",
+    "price": 71990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.867360507790757,
+    "availability": "Low Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 4070",
+      "vram": "12 GB",
+      "memoryType": "GDDR6X",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 314,
+      "tdp": 200,
+      "slots": 3,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-zotac-amp-extreme-rtx-4070",
+    "category": "gpu",
+    "name": "ZOTAC AMP Extreme GeForce RTX 4070",
+    "brand": "ZOTAC",
+    "price": 63990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.724357304165987,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 4070",
+      "vram": "12 GB",
+      "memoryType": "GDDR6X",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 308,
+      "tdp": 200,
+      "slots": 2,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-founders-edition-rtx-4070-super",
+    "category": "gpu",
+    "name": "NVIDIA Founders Edition GeForce RTX 4070 Super",
+    "brand": "NVIDIA",
+    "price": 63990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.9,
+    "availability": "Low Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 4070 Super",
+      "vram": "12 GB",
+      "memoryType": "GDDR6X",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 280,
+      "tdp": 220,
+      "slots": 2,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-asus-rog-strix-rtx-4070-super",
+    "category": "gpu",
+    "name": "ASUS ROG Strix GeForce RTX 4070 Super",
+    "brand": "ASUS",
+    "price": 73990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.8033181568844885,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 4070 Super",
+      "vram": "12 GB",
+      "memoryType": "GDDR6X",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 323,
+      "tdp": 220,
+      "slots": 2,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-msi-gaming-x-trio-rtx-4070-super",
+    "category": "gpu",
+    "name": "MSI Gaming X Trio GeForce RTX 4070 Super",
+    "brand": "MSI",
+    "price": 63990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.9722584817671285,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 4070 Super",
+      "vram": "12 GB",
+      "memoryType": "GDDR6X",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 321,
+      "tdp": 220,
+      "slots": 2,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-gigabyte-aorus-rtx-4070-super",
+    "category": "gpu",
+    "name": "Gigabyte AORUS GeForce RTX 4070 Super",
+    "brand": "Gigabyte",
+    "price": 71990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.836076501464634,
+    "availability": "Low Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 4070 Super",
+      "vram": "12 GB",
+      "memoryType": "GDDR6X",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 346,
+      "tdp": 220,
+      "slots": 3,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-zotac-amp-extreme-rtx-4070-super",
+    "category": "gpu",
+    "name": "ZOTAC AMP Extreme GeForce RTX 4070 Super",
+    "brand": "ZOTAC",
+    "price": 63990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.946121320441242,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 4070 Super",
+      "vram": "12 GB",
+      "memoryType": "GDDR6X",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 342,
+      "tdp": 220,
+      "slots": 2,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-asus-rog-strix-rtx-4070-ti",
+    "category": "gpu",
+    "name": "ASUS ROG Strix GeForce RTX 4070 Ti",
+    "brand": "ASUS",
+    "price": 98990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.704590620334774,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 4070 Ti",
+      "vram": "12 GB",
+      "memoryType": "GDDR6X",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 307,
+      "tdp": 285,
+      "slots": 2,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-msi-gaming-x-trio-rtx-4070-ti",
+    "category": "gpu",
+    "name": "MSI Gaming X Trio GeForce RTX 4070 Ti",
+    "brand": "MSI",
+    "price": 84990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.703321913883154,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 4070 Ti",
+      "vram": "12 GB",
+      "memoryType": "GDDR6X",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 314,
+      "tdp": 285,
+      "slots": 2,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-gigabyte-aorus-rtx-4070-ti",
+    "category": "gpu",
+    "name": "Gigabyte AORUS GeForce RTX 4070 Ti",
+    "brand": "Gigabyte",
+    "price": 93990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.723218870932147,
+    "availability": "Low Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 4070 Ti",
+      "vram": "12 GB",
+      "memoryType": "GDDR6X",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 303,
+      "tdp": 285,
+      "slots": 3,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-zotac-amp-extreme-rtx-4070-ti",
+    "category": "gpu",
+    "name": "ZOTAC AMP Extreme GeForce RTX 4070 Ti",
+    "brand": "ZOTAC",
+    "price": 84990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.666713940571242,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 4070 Ti",
+      "vram": "12 GB",
+      "memoryType": "GDDR6X",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 341,
+      "tdp": 285,
+      "slots": 2,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-asus-rog-strix-rtx-4070-ti-super",
+    "category": "gpu",
+    "name": "ASUS ROG Strix GeForce RTX 4070 Ti Super",
+    "brand": "ASUS",
+    "price": 98990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.762091141713584,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 4070 Ti Super",
+      "vram": "16 GB",
+      "memoryType": "GDDR6X",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 320,
+      "tdp": 285,
+      "slots": 2,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-msi-gaming-x-trio-rtx-4070-ti-super",
+    "category": "gpu",
+    "name": "MSI Gaming X Trio GeForce RTX 4070 Ti Super",
+    "brand": "MSI",
+    "price": 84990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.87100140470022,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 4070 Ti Super",
+      "vram": "16 GB",
+      "memoryType": "GDDR6X",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 301,
+      "tdp": 285,
+      "slots": 2,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-gigabyte-aorus-rtx-4070-ti-super",
+    "category": "gpu",
+    "name": "Gigabyte AORUS GeForce RTX 4070 Ti Super",
+    "brand": "Gigabyte",
+    "price": 93990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.885835076394987,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 4070 Ti Super",
+      "vram": "16 GB",
+      "memoryType": "GDDR6X",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 314,
+      "tdp": 285,
+      "slots": 3,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-zotac-amp-extreme-rtx-4070-ti-super",
+    "category": "gpu",
+    "name": "ZOTAC AMP Extreme GeForce RTX 4070 Ti Super",
+    "brand": "ZOTAC",
+    "price": 84990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.817027317903035,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 4070 Ti Super",
+      "vram": "16 GB",
+      "memoryType": "GDDR6X",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 313,
+      "tdp": 285,
+      "slots": 2,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-founders-edition-rtx-4080",
+    "category": "gpu",
+    "name": "NVIDIA Founders Edition GeForce RTX 4080",
+    "brand": "NVIDIA",
+    "price": 127990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.7,
+    "availability": "Low Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 4080",
+      "vram": "16 GB",
+      "memoryType": "GDDR6X",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 280,
+      "tdp": 320,
+      "slots": 2,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-asus-rog-strix-rtx-4080",
+    "category": "gpu",
+    "name": "ASUS ROG Strix GeForce RTX 4080",
+    "brand": "ASUS",
+    "price": 147990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.663065062375579,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 4080",
+      "vram": "16 GB",
+      "memoryType": "GDDR6X",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 341,
+      "tdp": 320,
+      "slots": 2,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-msi-gaming-x-trio-rtx-4080",
+    "category": "gpu",
+    "name": "MSI Gaming X Trio GeForce RTX 4080",
+    "brand": "MSI",
+    "price": 127990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.749479052531157,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 4080",
+      "vram": "16 GB",
+      "memoryType": "GDDR6X",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 302,
+      "tdp": 320,
+      "slots": 2,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-gigabyte-aorus-rtx-4080",
+    "category": "gpu",
+    "name": "Gigabyte AORUS GeForce RTX 4080",
+    "brand": "Gigabyte",
+    "price": 141990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.7957833772014515,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 4080",
+      "vram": "16 GB",
+      "memoryType": "GDDR6X",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 344,
+      "tdp": 320,
+      "slots": 3,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-zotac-amp-extreme-rtx-4080",
+    "category": "gpu",
+    "name": "ZOTAC AMP Extreme GeForce RTX 4080",
+    "brand": "ZOTAC",
+    "price": 127990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.737906755766829,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 4080",
+      "vram": "16 GB",
+      "memoryType": "GDDR6X",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 317,
+      "tdp": 320,
+      "slots": 2,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-founders-edition-rtx-4080-super",
+    "category": "gpu",
+    "name": "NVIDIA Founders Edition GeForce RTX 4080 Super",
+    "brand": "NVIDIA",
+    "price": 106990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.9,
+    "availability": "Low Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 4080 Super",
+      "vram": "16 GB",
+      "memoryType": "GDDR6X",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 280,
+      "tdp": 320,
+      "slots": 2,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-asus-rog-strix-rtx-4080-super",
+    "category": "gpu",
+    "name": "ASUS ROG Strix GeForce RTX 4080 Super",
+    "brand": "ASUS",
+    "price": 122990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.845682657667293,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 4080 Super",
+      "vram": "16 GB",
+      "memoryType": "GDDR6X",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 304,
+      "tdp": 320,
+      "slots": 2,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-msi-gaming-x-trio-rtx-4080-super",
+    "category": "gpu",
+    "name": "MSI Gaming X Trio GeForce RTX 4080 Super",
+    "brand": "MSI",
+    "price": 106990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.969246187329237,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 4080 Super",
+      "vram": "16 GB",
+      "memoryType": "GDDR6X",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 302,
+      "tdp": 320,
+      "slots": 2,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-gigabyte-aorus-rtx-4080-super",
+    "category": "gpu",
+    "name": "Gigabyte AORUS GeForce RTX 4080 Super",
+    "brand": "Gigabyte",
+    "price": 117990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.860086463756799,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 4080 Super",
+      "vram": "16 GB",
+      "memoryType": "GDDR6X",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 319,
+      "tdp": 320,
+      "slots": 3,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-zotac-amp-extreme-rtx-4080-super",
+    "category": "gpu",
+    "name": "ZOTAC AMP Extreme GeForce RTX 4080 Super",
+    "brand": "ZOTAC",
+    "price": 106990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.857193608558538,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 4080 Super",
+      "vram": "16 GB",
+      "memoryType": "GDDR6X",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 338,
+      "tdp": 320,
+      "slots": 2,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-founders-edition-rtx-4090",
+    "category": "gpu",
+    "name": "NVIDIA Founders Edition GeForce RTX 4090",
+    "brand": "NVIDIA",
+    "price": 169990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.9,
+    "availability": "Low Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 4090",
+      "vram": "24 GB",
+      "memoryType": "GDDR6X",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 280,
+      "tdp": 450,
+      "slots": 3,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-asus-rog-strix-rtx-4090",
+    "category": "gpu",
+    "name": "ASUS ROG Strix GeForce RTX 4090",
+    "brand": "ASUS",
+    "price": 196990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.865630771366446,
+    "availability": "Low Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 4090",
+      "vram": "24 GB",
+      "memoryType": "GDDR6X",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 328,
+      "tdp": 450,
+      "slots": 3,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-msi-gaming-x-trio-rtx-4090",
+    "category": "gpu",
+    "name": "MSI Gaming X Trio GeForce RTX 4090",
+    "brand": "MSI",
+    "price": 169990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.902142434199374,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 4090",
+      "vram": "24 GB",
+      "memoryType": "GDDR6X",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 317,
+      "tdp": 450,
+      "slots": 3,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-gigabyte-aorus-rtx-4090",
+    "category": "gpu",
+    "name": "Gigabyte AORUS GeForce RTX 4090",
+    "brand": "Gigabyte",
+    "price": 187990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.97460909898799,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 4090",
+      "vram": "24 GB",
+      "memoryType": "GDDR6X",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 337,
+      "tdp": 450,
+      "slots": 3,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  },
+  {
+    "id": "gpu-zotac-amp-extreme-rtx-4090",
+    "category": "gpu",
+    "name": "ZOTAC AMP Extreme GeForce RTX 4090",
+    "brand": "ZOTAC",
+    "price": 169990,
+    "image": "/images/gpus/nvidia.png",
+    "rating": 4.96133839330363,
+    "availability": "In Stock",
+    "specs": {
+      "type": "gpu",
+      "chipset": "RTX 4090",
+      "vram": "24 GB",
+      "memoryType": "GDDR6X",
+      "coreClock": "1500 MHz",
+      "boostClock": "1800 MHz",
+      "length": 329,
+      "tdp": 450,
+      "slots": 3,
+      "pcie": "PCIe 4.0 x16",
+      "outputs": [
+        "HDMI 2.1",
+        "DisplayPort 1.4a x 3"
+      ]
+    }
+  }
+]

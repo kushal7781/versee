@@ -80,15 +80,15 @@ export default function BuildSummary() {
       <div className="mt-auto pt-6 border-t border-white/10 space-y-3">
         <div className="flex justify-between text-sm text-white/60">
           <span>Subtotal</span>
-          <span>${subtotal.toFixed(2)}</span>
+          <span>₹{subtotal.toLocaleString('en-IN')}</span>
         </div>
         <div className="flex justify-between text-sm text-white/60">
           <span>Est. Shipping</span>
-          <span>{subtotal > 0 ? "$19.99" : "$0.00"}</span>
+          <span>{subtotal > 0 ? "₹1,500" : "₹0"}</span>
         </div>
         <div className="flex justify-between text-xl font-bold pt-3 border-t border-white/10">
           <span>Total</span>
-          <span>${(subtotal > 0 ? subtotal + 19.99 : 0).toFixed(2)}</span>
+          <span>₹{(subtotal > 0 ? subtotal + 1500 : 0).toLocaleString('en-IN')}</span>
         </div>
       </div>
 

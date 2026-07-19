@@ -58,7 +58,7 @@ export default function CategorySidebar() {
 
             <div className="flex-shrink-0 text-right">
               {selected ? (
-                <span className="text-sm font-medium">${selected.price.toFixed(2)}</span>
+                <span className="text-sm font-medium">₹{selected.price.toLocaleString('en-IN')}</span>
               ) : (
                 <button
                   className={cn(

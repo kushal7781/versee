@@ -134,7 +134,7 @@ function LoginForm() {
         <div className="mt-6 grid grid-cols-2 gap-3 drop-shadow-lg">
           <button
             type="button"
-            onClick={() => signIn("google")}
+            onClick={() => signIn("google", { callbackUrl })}
             className="flex w-full items-center justify-center gap-2 rounded-md border border-white/20 bg-white/10 backdrop-blur-md px-4 py-2 text-sm font-bold text-white shadow-sm hover:bg-white/20 transition-colors"
           >
             <svg className="h-5 w-5 drop-shadow" viewBox="0 0 24 24">
@@ -159,7 +159,7 @@ function LoginForm() {
           </button>
           <button
             type="button"
-            onClick={() => signIn("apple")}
+            onClick={() => signIn("apple", { callbackUrl })}
             className="flex w-full items-center justify-center gap-2 rounded-md border border-white/20 bg-white/10 backdrop-blur-md px-4 py-2 text-sm font-bold text-white shadow-sm hover:bg-white/20 transition-colors"
           >
             <svg className="h-5 w-5 fill-current drop-shadow" viewBox="0 0 24 24">

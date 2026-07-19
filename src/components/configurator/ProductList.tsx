@@ -92,7 +92,7 @@ export default function ProductList() {
                   {/* Action Section */}
                   <div className="flex items-center justify-between mt-auto pt-4 border-t border-white/10">
                     <div>
-                      <div className="text-lg font-bold">${product.price.toFixed(2)}</div>
+                      <div className="text-lg font-bold">₹{product.price.toLocaleString('en-IN')}</div>
                       <div className={cn(
                         "text-[10px] font-medium uppercase tracking-wider",
                         product.availability === "In Stock" ? "text-green-400" : "text-orange-400"

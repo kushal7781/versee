@@ -9,6 +9,61 @@ import { User } from "@/models/User";
 
 export const { handlers, auth, signIn, signOut } = NextAuth({
   ...authConfig,
+  callbacks: {
+    ...authConfig.callbacks,
+    async signIn({ user, account, profile, email, credentials }) {
+      if (account?.provider === "google" || account?.provider === "apple") {
+        try {
+          if (!user?.email) {
+            console.error("OAuth sign-in failed: No email provided by provider");
+            return false;
+          }
+          
+          await connectDB();
+          const existingUser = await User.findOne({ email: user.email.toLowerCase() });
+          
+          if (!existingUser) {
+            await User.create({
+              name: user.name || "New User",
+              email: user.email.toLowerCase(),
+              image: user.image || "",
+            });
+          }
+          return true;
+        } catch (error) {
+          console.error("Error saving OAuth user to DB:", error);
+          const fs = require("fs");
+          fs.writeFileSync("oauth-error.log", String(error) + "\n" + (error as Error).stack);
+          return false;
+        }
+      }
+      return true;
+    },
+    async jwt(params) {
+      // First, run the original jwt callback from authConfig
+      let token = params.token;
+      if (authConfig.callbacks?.jwt) {
+        // @ts-ignore
+        token = await authConfig.callbacks.jwt(params);
+      }
+      
+      // If this is an OAuth login, we need to overwrite the token.id 
+      // (which is currently the Google ID) with the real MongoDB _id.
+      if (params.user && (params.account?.provider === "google" || params.account?.provider === "apple")) {
+        try {
+          await connectDB();
+          const dbUser = await User.findOne({ email: params.user.email });
+          if (dbUser) {
+            token.id = dbUser._id.toString();
+            token.role = dbUser.role || "user";
+          }
+        } catch (e) {
+          console.error("Error fetching OAuth user from DB for JWT:", e);
+        }
+      }
+      return token;
+    }
+  },
   providers: [
     Google({
       clientId: process.env.GOOGLE_CLIENT_ID,
